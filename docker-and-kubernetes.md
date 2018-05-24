@@ -1,4 +1,65 @@
+## What is the big deal about containers.
+"portability and consistency regardless of the platform that it is running on." - Build Keynote
+
+You compile your code, build a container and then know it is going to work in dev / test / prod and even on an IOT device.
+
+
+## Where can I find out stuff about Docker in general ?
+
+https://github.com/dotnet/dotnet-docker-samples/blob/master/dotnetapp-selfcontained/Dockerfile
+https://kubernetes.io/docs/home/
+
+## Where can I get an AKS walkthrough ? 
+
+https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
+
+
 ## Where can I find info about Kubernetes best practices? 
 
 Check out this video ["Best Practices with Azure & Kubernetes"](
 https://developer.microsoft.com/en-us/events/build/content/best-practices-with-azure-kubernetes) from Build 2018
+
+# Unsorted links on ACS AKS and Containers
+
+Understand the future of software development in the cloud with the Azure Application Platform
+https://channel9.msdn.com/events/Ignite/2016/BRK2085-TS?term=understand%20the%20future%20of
+
+Azure Microservices presentation
+https://azure.microsoft.com/en-us/solutions/microservice-applications/
+
+Azure functions on Linux Containers
+https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/functions-on-linux-preview/
+
+https://github.com/Azure/aci-connector-k8s
+https://hub.docker.com/r/microsoft/aci-connector-k8s/
+https://azure.microsoft.com/en-au/pricing/details/container-instances/
+https://azure.microsoft.com/en-au/resources/videos/using-kubernetes-with-azure-container-instances/
+
+
+Github repo https://github.com/dotnet-architecture/eShopOnContainers
+Online version of book https://aka.ms/microservices-guide-online-msft-docs
+
+The App Service Web Application Reference Architecture (for scalability)
+
+Here is a the Microsoft guidance on a scalable web app. https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app 
+ 
+## I heard there was an awesome book on Containers and Microservices ?  
+.NET Microservices - Architecture for Containerized .NET Applications' Guide/eBook
+This is the free book on Microservices architecture. It will answer most of your questions about how and why.
+ 
+It is available from here https://www.microsoft.com/net/learn/architecture  (under Microservices & Docker - Architecture e-book)
+There is a pdf download, and even better a code repository on GitHub with a sample solution. 
+
+The update notes from just 2 weeks ago are here: https://blogs.msdn.microsoft.com/dotnet/2017/08/02/microservices-and-docker-containers-architecture-patterns-and-development-guidance/
+
+## How do I create a CI/CD pipeline for ACS ?
+
+Creating a CI/CD pipeline on Azure Container Services with Kubernetes and Visual Studio Team Services
+https://dgkanatsios.com/2017/05/29/creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-services/
+
+
+## How do I deploy a Docker container using the Azure portal ?
+https://docs.microsoft.com/en-gb/azure/container-service/dcos-swarm/container-service-deployment
+
+
+
