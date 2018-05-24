@@ -111,7 +111,7 @@ Absolutely!
 It is often better to have multiple smaller QnA makers than one monster one. 
 Consider a bot for a bank.
 It may be better for a bank to ask 
-> Do you want to discuss Banking, Insurance or Loans ? 
+"Do you want to discuss Banking, Insurance or Loans ? "
 Then the user navigates to a specific QnA maker dialog for either Banking, Insurance or Loans.
 Now then the user types 'How do I apply?' the bot can apply in context.
 
