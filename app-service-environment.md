@@ -25,3 +25,25 @@ From <https://docs.microsoft.com/en-us/azure/app-service/environment/intro
 Check out this video from Scott Hanselman
 https://azure.microsoft.com/en-us/resources/videos/azure-friday-ilb-ase-and-application-gateway-compy/
 
+## What is 'Best Practice' with regards to ASEs ?
+Note: everything on this site is purely my opinion - nothing is official. This is my take on it.
+
+There is deliberately no single best practice for all customers with ASEs.
+ 
+‘Best practice’ often relies on context.
+ 
+‘Very Best Practice’ is to have a separate ASE per environment (e.g. dev+test+prod), but this obviously starts to get expensive.
+ 
+‘Acceptable Best Practice’ for many organisations is to have a single ASE, and manage your environments with separate ASPs.
+ 
+I also often see a ‘Compromise Best Practice’ where there are two ASEs.
+
+- One for production
+- One for all non-production environments
+
+Many customers consider this a reasonable balance between cost and independence.
+
+Cons: Different ARM templates for Dev/UAT and Prod.
+ 
+I take several options to customers with a list of pros and cons, and a price comparison and let them decide.
+ 
