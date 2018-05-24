@@ -106,6 +106,19 @@ Check out this reference for async / await https://docs.microsoft.com/en-us/dotn
 Navigation is easy once you understand using dialogs. Check this out... 
 https://github.com/Microsoft/BotBuilder-Samples/blob/master/CSharp/core-MultiDialogs/README.md
 
+## Can I have more than 1 QnA in a single bot ? 
+Absolutely!
+It is often better to have multiple smaller QnA makers than one monster one. 
+Consider a bot for a bank.
+It may be better for a bank to ask 
+> Do you want to discuss Banking, Insurance or Loans ? 
+Then the user navigates to a specific QnA maker dialog for either Banking, Insurance or Loans.
+Now then the user types 'How do I apply?' the bot can apply in context.
+
+You can set this up by either:
+1. have a separate QnA dialogue for each QnA maker
+2. have one generic QnA maker dialogue that you pass the keys into and re-use depending on where you are navigating to it from.
+
 ## Can you help me understand the dialog lifecycle and navigating dialogs ?
 You might need to read this a few times.. but it's important.
 - When a dialog is invoked, it takes control of the conversation flow. Every new message will be subject to processing by that dialog until it either closes or redirects to another dialog.
