@@ -200,3 +200,23 @@ Chatdown allows you to
 - export a conversation with a bot as a transcript that can be re-loaded into the emulator at a later point for feedback / analysis
 - create chat transcripts and load them into the bot emulator for mocking up bots 
 Check out this video for more https://www.youtube.com/playlist?list=PLz6hh7iUxR21lAh7a3yjcRwZN6FnDUxpr
+
+## How should I architect my bot ? 
+
+There are many right ways to architect a bot.
+
+Here are some pattherns and references I find useful: 
+
+[The Scalable Web App reference architecture]
+(https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app)
+
+[A list of common cloud architecture patterns]
+(https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
+Creating a hybrid network (connecting to on-prem resources) either using [Hybrid network with Express Route](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/expressroute)
+ or a [Hybrid network using a VPN](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/vpn)
+ 
+ How to use [Azure API Management to connect to internal resources](https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-internal-vnet)
+ 
+ 
+
