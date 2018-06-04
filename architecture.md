@@ -11,7 +11,7 @@ https://azure.microsoft.com/en-au/solutions/architecture/continuous-integration-
 https://azure.microsoft.com/en-au/solutions/architecture/dev-test-microservice/
 
 ## Where can I find resources about high availability ? 
-
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region
 https://docs.microsoft.com/en-us/azure/architecture/resiliency/high-availability-azure-applications  
 https://azure.microsoft.com/en-au/global-infrastructure/availability-zones/  
 https://docs.microsoft.com/en-us/azure/architecture/resiliency/high-availability-azure-applications 
