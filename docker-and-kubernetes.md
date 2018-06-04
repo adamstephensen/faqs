@@ -3,6 +3,13 @@
 
 You compile your code, build a container and then know it is going to work in dev / test / prod and even on an IOT device.
 
+Scenario: You test your app using Python 2.7 in development, and then it's going to run on Python 3 in production and something weird will happen. 
+
+Or you rely on the behavior of a certain version of an SSL library and another one will be installed. 
+You'll run your tests on Debian and production is on Red Hat and all sorts of weird things happen.
+
+Customers need a way of bundling an entire runtime environment: an application, plus all its dependencies, libraries and other binaries, and configuration files needed to run it so that differences in OS distributions and underlying infrastructure are abstracted away. This way they can spend more  time writing their apps than worry about underlying infrastucture and migration.
+
 
 ## Where can I find out stuff about Docker in general ?
 
