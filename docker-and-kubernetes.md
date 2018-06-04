@@ -3,7 +3,7 @@
 
 You compile your code, build a container and then know it is going to work in dev / test / prod and even on an IOT device.
 
-Scenario: You test your app using Python 2.7 in development, and then it's going to run on Python 3 in production and something weird will happen. 
+Scenario: You test your app using Python 2.7 in development, and then it's going to run on Python 3 in production and something weird will happen. Alternatively - you have an old application that you would like to put on PaaS... but it's on an old unsupported version of Python - but you don't want to have to maintain a virtual machine to host an old version of Python.
 
 Or you rely on the behavior of a certain version of an SSL library and another one will be installed. 
 You'll run your tests on Debian and production is on Red Hat and all sorts of weird things happen.
