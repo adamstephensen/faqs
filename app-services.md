@@ -24,3 +24,7 @@ https://azure.microsoft.com/en-au/pricing/details/app-service includes a matrix 
 - STANDARD Run production workloads	
 - PREMIUM Enhanced performance and scale	
 - ISOLATED High-performance, security and isolation
+
+## App service multi-container support
+
+https://azure.microsoft.com/en-us/blog/app-service-adding-multi-container-capabilities-and-linux-support-for-app-service-environment/
