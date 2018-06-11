@@ -16,3 +16,7 @@ https://docs.microsoft.com/en-us/azure/architecture/resiliency/high-availability
 https://azure.microsoft.com/en-au/global-infrastructure/availability-zones/  
 https://docs.microsoft.com/en-us/azure/architecture/resiliency/high-availability-azure-applications 
 https://azure.microsoft.com/en-us/blog/introducing-azure-availability-zones-for-resiliency-and-high-availability/ 
+
+## PCI compliant architectures
+
+https://docs.microsoft.com/en-us/azure/security/blueprints/payment-processing-blueprint
