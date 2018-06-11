@@ -1,7 +1,11 @@
-# A Collection of info about Azure
-A collection of FAQs about Azure, including links to my favourite resources.
+# A Collection of info about Azure, Agile and other things I'm interested in.
+This is a collection of resources and notes that I want to refer back to. 
+
+I'm sharing it publicly in case it can be of use to others.
 
 ## Disclaimer
 
-This is just a quickly assembled collection of resources and info that I refer to. I am sharing it publicly in the hope that others may find it useful. I do not necessarily agree / endorse the opinions or patterns referred to.
+Consider this my scratch pad. It is a quickly assembled collection of resources. 
+If you find it useful, that's great... but ...  
+I do not necessarily agree / endorse the opinions or patterns referred to, and I don't make any guarantees the contained information is correct.
 
