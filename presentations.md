@@ -20,27 +20,27 @@ Web Apps, Mobile Apps, API Apps and Logic Apps
 
 ## Azure HotShots - The Azure bits you didn’t know you needed to know
 Azure is big. Really big. There are more than 90 different products that make up Azure and knowing which to invest time in is a serious challenge. This section gives you a very brief introduction to the parts of Azure you may have missed, so that when the time comes - you know about the tools at your disposal.
-- App Services - Web Apps, Mobile Apps, API Apps and Logic Apps
-- Azure Functions
-- Data and Storage: SQL Database, DocumentDB and Azure Storage, SQL Data Warehouse, Data Factory
-- Azure Automation and Azure Resource Manager
-- API Management
-- Essential networking: Azure Traffic Manager and DNS
-- Azure Bot Service
-- Azure Backup & Site Recovery
+- App Services - Web Apps, API Apps and Mobile Apps
+- Serverless - Azure Functions and Logic Apps
 - Azure Machine Learning & Cognitive Services
+- Azure Bot Service
+- Data and Storage: SQL Database, DocumentDB and Azure Storage, SQL Data Warehouse, Data Factory
+- Azure Automation 
+- Azure Resource Manager
+- API Management and App Gateway
+- Azure Service Bus
+- Azure Traffic Manager and DNS
+- Azure Backup & Site Recovery
 - Redis Cache & Azure Search
 - Azure Active Directory, AD B2C & Multi-Factor Authentication
 - Azure Key Vault & Azure Security Center
 - Azure Scheduler & Azure Batch
 - Azure Event Hubs & Notification Hubs
-- Azure Service Bus
 - Azure Service Fabric
 - Azure Media Services
 - Application Insights
 - Azure Advisor
 - Azure CDN
-- Machine Learning and Cognitive Services
 
 ## Azure Service Bus Fundamentals
 The Azure Service Bus is a highly-reliable cloud messaging service between applications and services, even when one or more is offline. When building distributed applications the service bus makes it easy for each of your components to communicate.
