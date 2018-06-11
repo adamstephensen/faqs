@@ -25,6 +25,7 @@ Azure is big. Really big. There are more than 90 different products that make up
 - Azure Machine Learning & Cognitive Services
 - Azure Bot Service
 - Data and Storage: SQL Database, DocumentDB and Azure Storage, SQL Data Warehouse, Data Factory
+- Azure Container Instances, Azure Container Service, Azure Container Repository
 - Azure Automation 
 - Azure Resource Manager
 - API Management and App Gateway
