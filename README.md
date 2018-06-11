@@ -1,5 +1,5 @@
 # A Collection of info about Azure, Agile and other things I'm interested in.
-This is a collection of resources and notes that I want to refer back to. 
+This is a collection of resources, links and notes that I refer back to. 
 
 I'm sharing it publicly in case it can be of use to others.
 
