@@ -12,3 +12,5 @@ https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-php-
 
 Use PHP to query an Azure SQL database
 https://docs.microsoft.com/en-us/azure/sql-database/sql-database-connect-query-php
+
+Azure Cognitive Services are REST interfaces that can be consumed by any language... but PHP has first class support and documentation. e.g. https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quickstarts/php
