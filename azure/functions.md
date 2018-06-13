@@ -8,3 +8,7 @@ Quick ramp up, sub second metering, zero ops
 [No ARM](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/09/06/azure-functions-prepare-for-continuous-delivery/)
 
 [With ARM](http://www.clemensreijnen.nl/post/2017/01/02/CICD-Pipeline-for-Serverless-release-Azure-Functions-with-VSTS)
+
+## Is there sampleS using Azure Functions ? 
+https://github.com/Azure-Samples/TodoFunctions/blob/master/ToDoFunctions/ToDoOperations.cs
+todo: find one showing a full API
