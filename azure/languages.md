@@ -1,4 +1,4 @@
-Are there Azure resources for Azure developers ? 
+## Are there PHP resources for Azure developers ? 
 
 Sure are ! 
 PHP Developer Portal https://azure.microsoft.com/en-us/develop/php/
