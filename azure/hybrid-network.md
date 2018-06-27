@@ -26,3 +26,7 @@ The gateway supports connections to these data sources on premises:
 - SQL Server
 - Teradata
 
+## Where can I get Visio Stencils ? 
+https://gallery.technet.microsoft.com/Collection-of-Integration-e6a3f4d0
+https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio
+
