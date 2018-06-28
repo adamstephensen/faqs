@@ -188,7 +188,9 @@ Here is the video introduction from the Build conference https://www.youtube.com
 
 v4 is the next version of the Bot Framework. It's still in preview.
 
-Bot Framework v4 can be found on GitHub here https://github.com/Microsoft/botbuilder-dotnet
+Bot Framework v4 can be found on GitHub 
+- DotNet is here https://github.com/Microsoft/botbuilder-dotnet
+- Node is here https://github.com/Microsoft/botbuilder-js
 
 Here is Hello World in Bot Framework v4. https://blog.botframework.com/2018/05/07/build-a-microsoft-bot-framework-bot-with-the-bot-builder-sdk-v4/
 
