@@ -192,6 +192,8 @@ Bot Framework v4 can be found on GitHub
 - DotNet is here https://github.com/Microsoft/botbuilder-dotnet
 - Node is here https://github.com/Microsoft/botbuilder-js
 
+The doco is here https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0
+
 Here is Hello World in Bot Framework v4. https://blog.botframework.com/2018/05/07/build-a-microsoft-bot-framework-bot-with-the-bot-builder-sdk-v4/
 
 Also, check out this video https://www.youtube.com/watch?v=SL077rQQQMg
