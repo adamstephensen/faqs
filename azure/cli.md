@@ -9,4 +9,7 @@ You can find out about it here
 https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest
 
 ## How do I delete a resource group
+
+```
 az group delete -n MyResourceGroup --no-wait
+```
