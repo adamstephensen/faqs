@@ -234,3 +234,4 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/luis-reference-re
 ## How do I build a bot to work on Microsoft Teams ? 
 https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/bots/bots-create
 https://github.com/OfficeDev/BotBuilder-MicrosoftTeams/tree/master/CSharp/Samples/Microsoft.Bot.Connector.Teams.SampleBot
+How to side load a bot into teams in 10 seconds https://docs.microsoft.com/en-us/microsoftteams/add-bots#side-load-your-own-bot-for-private-chat
