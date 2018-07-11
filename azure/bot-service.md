@@ -222,5 +222,5 @@ Creating a hybrid network (connecting to on-prem resources) either using [Hybrid
  
  How to use [Azure API Management to connect to internal resources](https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-internal-vnet)
  
- 
-
+## How do I resolve 401 errors ? 
+Check this out https://blogs.msdn.microsoft.com/kwill/2017/05/17/http-401-access-denied-when-calling-azure-cognitive-services-apis/
