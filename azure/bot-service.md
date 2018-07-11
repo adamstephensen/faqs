@@ -235,3 +235,7 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/luis-reference-re
 https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/bots/bots-create
 https://github.com/OfficeDev/BotBuilder-MicrosoftTeams/tree/master/CSharp/Samples/Microsoft.Bot.Connector.Teams.SampleBot
 How to side load a bot into teams in 10 seconds https://docs.microsoft.com/en-us/microsoftteams/add-bots#side-load-your-own-bot-for-private-chat
+
+## How do I store state in Bot Framework v4 ? 
+Here is an article http://aihelpwebsite.com/Blog/EntryId/1031/Saving-User-and-Conversation-Data-MS-Bot-Framework-V4-Preview-Edition
+As per this link you need to use Cosmos, not table or blob storage. https://github.com/Microsoft/botbuilder-dotnet/issues/736
