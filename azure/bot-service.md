@@ -229,3 +229,8 @@ Check this out https://blogs.msdn.microsoft.com/kwill/2017/05/17/http-401-access
 OK. https://docs.microsoft.com/en-gb/azure/cognitive-services/LUIS/luis-concept-keys
 https://blogs.msdn.microsoft.com/kwill/2017/05/17/http-401-access-denied-when-calling-azure-cognitive-services-apis/
 https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/luis-reference-regions#publishing-regions
+
+
+## How do I build a bot to work on Microsoft Teams ? 
+https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/bots/bots-create
+https://github.com/OfficeDev/BotBuilder-MicrosoftTeams/tree/master/CSharp/Samples/Microsoft.Bot.Connector.Teams.SampleBot
