@@ -239,3 +239,6 @@ How to side load a bot into teams in 10 seconds https://docs.microsoft.com/en-us
 ## How do I store state in Bot Framework v4 ? 
 Here is an article http://aihelpwebsite.com/Blog/EntryId/1031/Saving-User-and-Conversation-Data-MS-Bot-Framework-V4-Preview-Edition
 As per this link you need to use Cosmos, not table or blob storage. https://github.com/Microsoft/botbuilder-dotnet/issues/736
+
+## Where can I get the v4 Roadmap ? 
+You can see the plan for Bot Framework v4 here https://github.com/Microsoft/botbuilder-dotnet/wiki/Roadmap
