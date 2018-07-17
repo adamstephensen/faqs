@@ -1,0 +1,4 @@
+## How do I easily implement policys like retry or circuit breaker in .NET ? 
+Check this out 
+http://www.thepollyproject.org/2018/03/06/policy-recommendations-for-azure-cognitive-services/
+(I haven't used it.. but it looks great)
