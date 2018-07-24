@@ -2,9 +2,10 @@
 A collection of FAQs about Azure, including links to my favourite resources.
 
 ## How many products are there ? 
+Lots... and it's always growing.
 
-Here is the full list of full list of services https://azure.microsoft.com/en-gb/services/
-Here is an interactive list of services http://azureinteractives.azurewebsites.net/ 
+- Here is the full list of full list of services https://azure.microsoft.com/en-gb/services/
+- Here is an interactive list of services http://azureinteractives.azurewebsites.net/ 
 
 
 ## Disclaimer
