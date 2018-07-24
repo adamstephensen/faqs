@@ -1,6 +1,12 @@
 # A Collection of info about Azure
 A collection of FAQs about Azure, including links to my favourite resources.
 
+## How many products are there ? 
+
+Here is the full list of full list of services https://azure.microsoft.com/en-gb/services/
+Here is an interactive list of services http://azureinteractives.azurewebsites.net/ 
+
+
 ## Disclaimer
 
 This is just a quickly assembled collection of resources and info that I refer to. I am sharing it publicly in the hope that others may find it useful. I do not necessarily agree / endorse the opinions or patterns referred to.
