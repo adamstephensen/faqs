@@ -1,3 +1,10 @@
+## I don't understand Kubuernetes. What can I do ?
+Watch this. It is awesome.
+
+https://azure.microsoft.com/en-us/resources/videos/the-illustrated-children-s-guide-to-kubernetes/
+
+
+
 ## What is the big deal about containers.
 "portability and consistency regardless of the platform that it is running on." - Build Keynote
 
