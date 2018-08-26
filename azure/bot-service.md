@@ -21,6 +21,7 @@ There are heaps of awesome samples here https://github.com/Microsoft/BotBuilder-
 Also, the code for @adamstephensen's bot about bots is here https://github.com/adamstephensen/my-bot-bot
 It demonstrates some functionality not in the official bot samples, including how to build a bot on Azure Functions.
 
+
 ## What templates are available for building bots.
 There are 5 templates out of the box.
 1. Basic bot
@@ -196,7 +197,8 @@ The doco is here https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-
 
 Here is Hello World in Bot Framework v4. https://blog.botframework.com/2018/05/07/build-a-microsoft-bot-framework-bot-with-the-bot-builder-sdk-v4/
 
-Also, check out this video https://www.youtube.com/watch?v=SL077rQQQMg
+Also, check out this video https://www.youtube.com/watch?v=SL077rQQQMg and this article 
+Also check out https://blogs.msdn.microsoft.com/martinkearn/2018/07/17/bot-framework-v4-what-i-learnt-in-4-days-in-july-2018/
 
 
 ## What is Chatdown?
