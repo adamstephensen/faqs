@@ -244,3 +244,14 @@ As per this link you need to use Cosmos, not table or blob storage. https://gith
 
 ## Where can I get the v4 Roadmap ? 
 You can see the plan for Bot Framework v4 here https://github.com/Microsoft/botbuilder-dotnet/wiki/Roadmap
+
+## How do I do authication for a bot in teams ? 
+Here are some links to help you do auth for a bot in teams
+https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/auth-oauth-card
+https://github.com/OfficeDev/microsoft-teams-sample-auth-node
+https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/auth-bot-aad
+https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication/auth-configure
+https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0#notes-on-the-token-retrieval-flow
+https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0
+
+
