@@ -12,9 +12,12 @@ https://www.digitaltrends.com/cool-tech/dji-sdk-for-microsoft-partnership/
 
 Dominos Driverless delivery vehicles
 Domino's launches driverless pizza delivery vehicles
+https://www.youtube.com/watch?v=8DOZ10TD8B8
+
 
 Wheelys' Moby Mart - Self Driving store with holographic assistant
 Wheelys' Moby-Mart is a self-driving store with a holographic shop assistant
+https://www.youtube.com/watch?v=CitIVrHXuFg
 
 
 ## Controlling a computer with your mind
@@ -41,6 +44,7 @@ https://www.youtube.com/watch?v=nbMt5hHvpnc
 
 Microsoft and DJI are also working together designing additional drone solutions mixing Azure IoT Edge and DJI products in those same industries. 
 One of those projects, Microsoft FarmBeats, uses real-time heat maps to help farmers identify potential issues quickly.
+Rockwell - integration with DGI drones.
 
 https://www.digitaltrends.com/cool-tech/dji-sdk-for-microsoft-partnership/
 Video: https://www.youtube.com/watch?v=EruH-4Fvecc
