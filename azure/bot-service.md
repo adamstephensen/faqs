@@ -254,4 +254,7 @@ https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/authentication
 https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0#notes-on-the-token-retrieval-flow
 https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-authentication?view=azure-bot-service-3.0
 
+## Where can I find a v4 hands on lab ? 
+There is a great hands on lab here 
+https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.2-building_bots
 
