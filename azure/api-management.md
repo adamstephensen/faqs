@@ -18,4 +18,5 @@ Check it out here:  https://kvaes.wordpress.com/2017/10/18/hardening-azure-funct
 [Azure API Management Feature: SOAP to REST by Bill Chestnut](https://www.biztalkbill.com/2018/08/06/azure-api-management-feature-soap-rest/)
 
 APIs to test with
+[Simple Calculator](http://www.dneonline.com/calculator.asmx?op=Add)
 [The dilbert service](http://www.gcomputer.net/webservices/dilbert.asmx)
