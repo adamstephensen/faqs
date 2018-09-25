@@ -10,3 +10,12 @@ https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
 ## How do I use API Management with Azure Functions ? 
 
 Check it out here:  https://kvaes.wordpress.com/2017/10/18/hardening-azure-functions-when-exposing-them-via-azure-api-management/
+
+## How do I do expose SOAP services via APIM ?
+
+[Azure API Management Feature: SOAP pass-through by Bill Chestnut](https://www.biztalkbill.com/2018/08/01/azure-api-management-feature-soap-pass/)
+
+[Azure API Management Feature: SOAP to REST by Bill Chestnut](https://www.biztalkbill.com/2018/08/06/azure-api-management-feature-soap-rest/)
+
+APIs to test with
+[The dilbert service](http://www.gcomputer.net/webservices/dilbert.asmx)
