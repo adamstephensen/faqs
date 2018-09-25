@@ -11,3 +11,6 @@
 [Drone Girls - Announcing DJI Microsoft SDK](http://thedronegirl.com/2018/05/07/dji-microsoft-sdk/)
 
 [Hacking the Tello](https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/)
+
+## How can I start to understand drone mapping ?
+This is a great article on drone mapping. https://www.dronepilotgroundschool.com/drone-mapping-software/
