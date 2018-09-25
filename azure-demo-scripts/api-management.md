@@ -1,3 +1,14 @@
+1. Import the Calculator wsdl
+```
+http://www.dneonline.com/calculator.asmx?wsdl
+```
+Don't forget to select the products.
+
+2. Test 'Add method'
+
+3. Change url from 'Post' to 'Get'
+
+4. Remove the following from the body
 ```{
   "add": {
     "intA": 1.0,
@@ -5,7 +16,40 @@
   }
 }
 ```
+5. Design and add '<set-method>POST</set-method>' so policy resembles
 
+```
+    <inbound>
+        <base />
+        <rewrite-uri template="/calculator.asmx" copy-unmatched-params="false" />
+        <set-method>POST</set-method>
+        <set-header name="SOAPAction" exists-action="override">
+
+```
+
+
+6. Design and update to 
+```
+Change the inbound policy from
+
+```
+				<soap:Body>
+					<Add>
+						<intA>{{body.add.intA}}</intA>
+						<intB>{{body.add.intB}}</intB>
+					</Add>
+				</soap:Body>
+
+
+```
+to
+```
+				<soap:Body>
+					<Add>
+						<intA>{{context.Request.OriginalUrl.Query.intA}}</intA>
+						<intB>{{context.Request.OriginalUrl.Query.intB}}</intB>
+					</Add>
+				</soap:Body>
 
 ```
 <policies>
@@ -87,11 +131,7 @@
     </on-error>
 </policies>
 ```
-Change the 
-```
-context.Request.OriginalUrl.Query.intA
-context.Request.OriginalUrl.Query.intB
-```
+
 
 ### useful links
 - [API Management transformation policies](https://docs.microsoft.com/en-us/azure/api-management/api-management-transformation-policies)
