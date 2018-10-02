@@ -16,10 +16,22 @@ There is lots of great documentation on bots.
 - Bot Builder SDK for .NET https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-overview
 
 ## Where can I get sample applications ? 
-There are heaps of awesome samples here https://github.com/Microsoft/BotBuilder-Samples
+There are heaps of awesome samples for the Azure Bot Service here https://github.com/Microsoft/BotBuilder-Samples
+
+There are lots of great open source projects for example
+
+Password reset bot (Bot Framework v4)
+[Blog Post](https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/)
+ | 
+[Source code](https://github.com/pragmatismo-io/AzureADPasswordReset.gbapp/)
+
+Accounts Payable bot using Service Now (Bot Framework v3.. looking for help to upgrade)
+https://github.com/jomit/ap-bot (Created by Jomit - a Microsoft CSA in Seattle)
+
 
 Also, the code for @adamstephensen's bot about bots is here https://github.com/adamstephensen/my-bot-bot
 It demonstrates some functionality not in the official bot samples, including how to build a bot on Azure Functions.
+
 
 
 ## What templates are available for building bots.
