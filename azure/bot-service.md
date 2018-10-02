@@ -20,6 +20,9 @@ There are heaps of awesome samples for the Azure Bot Service here https://github
 
 There are lots of great open source projects for example
 
+Learn AI Bootcamp bot (Bot Framework v4)
+[Doco](https://azure.github.io/LearnAI-Bootcamp/emergingaidev_bootcamp) and [Repo](https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.2-building_bots)
+
 Password reset bot (Bot Framework v4)
 [Blog Post](https://blogs.msdn.microsoft.com/buckwoody/2018/09/25/applied-ai-using-a-bot-for-password-reset/)
  | 
