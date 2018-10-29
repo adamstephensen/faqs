@@ -10,3 +10,8 @@
 - .NET Microservices. Architecture for Containerized .NET Applications by Cesar de la Torre
 Go to https://www.microsoft.com/net/learn/architecture and select 'Microservices and Docker'
 Or go to http://aka.ms/MicroservicesEbook to download the PDF directly.
+
+## Assorted list of things to read
+
+[Distributed Application by Brendan Burns(cofounder of Kubernetes)](
+https://azure.microsoft.com/en-us/resources/designing-distributed-systems/en-us/)
