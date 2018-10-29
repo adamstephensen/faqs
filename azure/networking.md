@@ -11,3 +11,16 @@ This feature is available for the following Azure services and regions:
 - Azure database services for PostgreSQL and MySQL: Preview in Azure regions where database service is available.
 
 Source: https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
+
+## What is Azure Frontdoor ?
+
+Azure Frontdoor is a global web application acceleration platform.
+
+It makes your application
+- more scalable
+- increases availablity
+- increases reliability
+- boosts performance
+- increases application layer security
+- global http & https load balancing
+- instant global multi-region failover
