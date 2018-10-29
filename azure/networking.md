@@ -24,3 +24,9 @@ It makes your application
 - increases application layer security
 - global http & https load balancing
 - instant global multi-region failover
+
+https://www.youtube.com/watch?v=3Di9H1V0zuc
+https://azure.microsoft.com/en-au/services/frontdoor/
+
+
+
