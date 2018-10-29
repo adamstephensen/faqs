@@ -25,8 +25,9 @@ It makes your application
 - global http & https load balancing
 - instant global multi-region failover
 
-https://www.youtube.com/watch?v=3Di9H1V0zuc
-https://azure.microsoft.com/en-au/services/frontdoor/
+Resources
+- [Azure Frondoor - on Azure Fridays](https://www.youtube.com/watch?v=3Di9H1V0zuc)
+- [Azure Frontdoor - Homepage](https://azure.microsoft.com/en-au/services/frontdoor/)
 
 
 
