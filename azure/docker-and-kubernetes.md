@@ -17,6 +17,25 @@ You'll run your tests on Debian and production is on Red Hat and all sorts of we
 
 Customers need a way of bundling an entire runtime environment: an application, plus all its dependencies, libraries and other binaries, and configuration files needed to run it so that differences in OS distributions and underlying infrastructure are abstracted away. This way they can spend more  time writing their apps than worry about underlying infrastucture and migration.
 
+ 
+## I heard there was an awesome book on Containers and Microservices ?  
+.NET Microservices - Architecture for Containerized .NET Applications' Guide/eBook
+This is the free book on Microservices architecture. It will answer most of your questions about how and why.
+ 
+It is available from here https://www.microsoft.com/net/learn/architecture  (under Microservices & Docker - Architecture e-book)
+There is a pdf download, and even better a code repository on GitHub with a sample solution. 
+
+The update notes from just 2 weeks ago are here: https://blogs.msdn.microsoft.com/dotnet/2017/08/02/microservices-and-docker-containers-architecture-patterns-and-development-guidance/
+
+## How do I create a CI/CD pipeline for ACS ?
+
+Creating a CI/CD pipeline on Azure Container Services with Kubernetes and Visual Studio Team Services
+https://dgkanatsios.com/2017/05/29/creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-services/
+
+
+## How do I deploy a Docker container using the Azure portal ?
+https://docs.microsoft.com/en-gb/azure/container-service/dcos-swarm/container-service-deployment
+
 
 ## Where can I find out stuff about Docker in general ?
 
@@ -28,10 +47,43 @@ https://kubernetes.io/docs/home/
 https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
 
 
-## Where can I find info about Kubernetes best practices? 
 
-Check out this video ["Best Practices with Azure & Kubernetes"](
+
+
+# Where can I find resources
+
+
+Check out this video on Kubernetes best practices
+["Best Practices with Azure & Kubernetes"](
 https://developer.microsoft.com/en-us/events/build/content/best-practices-with-azure-kubernetes) from Build 2018
+
+Also here was a list of great resources everyone provided for learning Kubernetes:
+
+### Books: (Available On aka.ms/safari)
+- Designing Distributed Systems — Brendan Burns
+- Kubernetes In Action — Marko Luksa
+- Managing Kubernetes — Brendan Burns and Craig Tracey
+- Kubernetes Cookbook — Sebastien Goasäuen
+- Kubernetes For Developers — Joseph Hack
+- Prometheus Up and Running — Brian Barazil
+- Istio In Action (MEAP) — Christian E. Post
+
+### Videos and YouTube Channels:
+- Lachlan Evenson (aka Crocodile Dundee Of Kubernetes) https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ
+- TGI Kubernetes by Heptio - https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos
+- Linux Foundation CKA (Must Register With MSFT For Free Access) https://lms.quickstart.com
+
+### Hands-On:
+- Kubernetes BootCamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
+- Katacoda Labs -https://katacoda.com/courses/kubernetes
+- Azure Citadel - https://azurecitadel.github.io/
+- GBB Azure Kubernetes Hackfest – 
+
+### Large curated list of resources:
+- https://github.com/ramitsurana/awesome-kubernetes
+
+
+
 
 # Unsorted links on ACS AKS and Containers
 
@@ -56,24 +108,5 @@ Online version of book https://aka.ms/microservices-guide-online-msft-docs
 The App Service Web Application Reference Architecture (for scalability)
 
 Here is a the Microsoft guidance on a scalable web app. https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app 
- 
-## I heard there was an awesome book on Containers and Microservices ?  
-.NET Microservices - Architecture for Containerized .NET Applications' Guide/eBook
-This is the free book on Microservices architecture. It will answer most of your questions about how and why.
- 
-It is available from here https://www.microsoft.com/net/learn/architecture  (under Microservices & Docker - Architecture e-book)
-There is a pdf download, and even better a code repository on GitHub with a sample solution. 
-
-The update notes from just 2 weeks ago are here: https://blogs.msdn.microsoft.com/dotnet/2017/08/02/microservices-and-docker-containers-architecture-patterns-and-development-guidance/
-
-## How do I create a CI/CD pipeline for ACS ?
-
-Creating a CI/CD pipeline on Azure Container Services with Kubernetes and Visual Studio Team Services
-https://dgkanatsios.com/2017/05/29/creating-a-cicd-pipeline-on-azure-container-services-with-kubernetes-and-visual-studio-team-services/
-
-
-## How do I deploy a Docker container using the Azure portal ?
-https://docs.microsoft.com/en-gb/azure/container-service/dcos-swarm/container-service-deployment
-
 
 
