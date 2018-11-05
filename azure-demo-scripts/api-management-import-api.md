@@ -91,4 +91,7 @@ Set the rate limit to 3 calls per 15 seconds for each subscription Id. After 15 
 6. Go to the test screen and click **Send** three times in a row -> '429 Too many requests' response
 7. Wait 15 seconds and try again -> 200 Response
 
+## Metrics, Activity Logs
 
+1. Navigate to metrics - add a bar chart showing Successful requests and Total requests
+2. Select **Diagnostic Settings** to enable Diagnostic Logs
