@@ -60,7 +60,7 @@ We are going to remove the 'X-Powered-By' and 'X-AspNet-Version' Http headers fr
 
 ### Set the transformation policy
 1. Select **Demo Conference API | Design | All Operations | Outbound Processing 'Policies' editor**
-2. Position the cursor inside the **<outbound>** element (before **base**)
+2. Position the cursor inside the **outbound** element (before **base**)
 3. In the right window, under Transformation policies, click + Set HTTP header twice (to insert two policy snippets).
 4. Modify the code to look like this: 
 
@@ -69,3 +69,26 @@ We are going to remove the 'X-Powered-By' and 'X-AspNet-Version' Http headers fr
  <set-header name="X-AspNet-Version" exists-action="delete" />  
 ```
 5. Click **Save** and test the result
+6. Bonus: Add a find and replace policy
+
+```
+  <find-and-replace from="://conferenceapi.azurewebsites.net" to="://apiphany.azure-api.net/conference"/>
+```
+
+### Protect an API by adding rate limit policy (throttling)
+
+Set the rate limit to 3 calls per 15 seconds for each subscription Id. After 15 seconds, a developer can retry calling the API.
+
+1. Select **Demo Conference API | Design | All Operations | Inbound Processing 'Policies' editor**
+2. Position the cursor inside the **inbound** element (before **base**)
+3. In the right window, under **Access restriction policies**, click ** + Limit call rate per key**.
+4. Modify the code to look like this: 
+
+```
+ <rate-limit-by-key calls="3" renewal-period="15" counter-key="@(context.Subscription.Id)" />
+```
+5. Click **Save** 
+6. Go to the test screen and click **Send** three times in a row -> '429 Too many requests' response
+7. Wait 15 seconds and try again -> 200 Response
+
+
