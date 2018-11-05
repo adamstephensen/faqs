@@ -3,6 +3,7 @@
 note: this is a brief summary of the following docs
 - [The official import and publish API tutorial](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
 - [Create and publish a product](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-add-products)
+- [Transform and protect your API](https://docs.microsoft.com/en-us/azure/api-management/transform-api)
 
 ## Before the demo
 1. create the APIM service - it can take 20 mins to spin up
@@ -48,3 +49,23 @@ Note that **200 ok** is returned along with Data
 4. Continue configuring in the **Settings** tab
 5. View / Add subscribers in the **Subscriptions** tab
 6. Set visibility of a product for developers or guest from the **Access control** tab
+
+## Transform an API to strip response headers
+
+We are going to remove the 'X-Powered-By' and 'X-AspNet-Version' Http headers from the Http Response
+
+### Test the original reponose
+1. Under **APIs** choose **Demo Conference API | Test | GetSpeakers | Send**
+2. Note that the message includes the 'X-Powered-By' and 'X-AspNet-Version' Http headers
+
+### Set the transformation policy
+1. Select **Demo Conference API | Design | All Operations | Outbound Processing 'Policies' editor**
+2. Position the cursor inside the **<outbound>** element (before **base**)
+3. In the right window, under Transformation policies, click + Set HTTP header twice (to insert two policy snippets).
+4. Modify the code to look like this: 
+
+```
+ <set-header name="X-Powered-By" exists-action="delete" />
+ <set-header name="X-AspNet-Version" exists-action="delete" />  
+```
+5. Click **Save** and test the result
