@@ -1,6 +1,8 @@
 # Import and publish your first API
 
-note: this is a brief summary of [The official import and publish API tutorial](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish).
+note: this is a brief summary of the following docs
+- [The official import and publish API tutorial](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
+- [Create and publish a product](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-add-products)
 
 ## Before the demo
 1. create the APIM service - it can take 20 mins to spin up
@@ -30,3 +32,19 @@ Note that **200 ok** is returned along with Data
 1. Under **Developer Portal** choose **Demo Conference API** then **GetSpeakers**
 2. Try it: Click **Try It** and then **Send**
 3. Get the code to implement it & execute the CURL @ command prompt (get subscription key first)
+
+## Create and publish a product
+
+1. Under **Products** choose **Add**
+2. Use the following settings
+- Display name: Contoso product *(Used for developer portal)*
+- Id: contoso-product
+- Description: test product
+- State: published *(unpublished by default - only visible to administrators)*
+- Requires subscription: if a user requires a subscription key to access method
+- Requires approval: false *(if you want an admin to review and accept/reject subscription attempts. false=auto approval)*
+- APIs: the apis in the product
+3. Click Create
+4. Continue configuring in the **Settings** tab
+5. View / Add subscribers in the **Subscriptions** tab
+6. Set visibility of a product for developers or guest from the **Access control** tab
