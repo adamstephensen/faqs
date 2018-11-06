@@ -75,7 +75,8 @@ Also here was a list of great resources everyone provided for learning Kubernete
 
 ### Hands-On:
 - Kubernetes BootCamp - https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
-- Katacoda Labs -https://katacoda.com/courses/kubernetes
+- Katacoda Labs - Kubernetes https://katacoda.com/courses/kubernetes
+- Katacoda Labs - Docker https://katacoda.com/courses/docker
 - Azure Citadel - https://azurecitadel.github.io/
 - GBB Azure Kubernetes Hackfest – 
 
