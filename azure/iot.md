@@ -17,7 +17,7 @@ Also, you can find more information under the following link:  https://azure.mic
 Yes, using continuous data [export feature in Azure IoT Central](https://docs.microsoft.com/en-au/azure/iot-central/howto-export-data) you can periodically export data to your Azure Blob storage account. You can export measurements, devices, and device templates to files with the Apache AVRO format. The exported data can be used for cold path analytics like training models in Azure Machine Learning or long-term trend analysis in Microsoft Power BI.
 
 ## What is the data Retention policy for IoT Central?
-              Data is retained on a rolling 30-day basis and customers can continuously export their data using [the export feature in IoT Central](https://docs.microsoft.com/en-au/azure/iot-central/howto-export-data).
+Data is retained on a rolling 30-day basis and customers can continuously export their data using [the export feature in IoT Central](https://docs.microsoft.com/en-au/azure/iot-central/howto-export-data).
 
 ## Link to reference architectures? 
 Please use [this link](https://azure.microsoft.com/en-au/blog/azure-iot-reference-architecture-update/
