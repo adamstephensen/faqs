@@ -4,6 +4,6 @@
 
 ```
  axios
-.get(getBasesURL)
-.then(response => (this.bases = response.data))
+.get('https://mywebsite.azurewebsites.net/api/getcustomers')
+.then(response => (this.customers = response.data))
 ```            
