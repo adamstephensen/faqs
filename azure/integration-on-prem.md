@@ -1,3 +1,8 @@
+## How do I connect API Management to my internal network
+Here is how to connect my APIM to internal network
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-integrate-internal-vnet-appgateway
+
+
 ## Where can I learn about connecting to on-premise resources ? 
 
 https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
