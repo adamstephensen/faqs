@@ -44,6 +44,9 @@ airframe reference https://docs.px4.io/en/airframes/airframe_reference.html
 
 # Drones
 
+## DJI Mavic 2 Enterprise
+https://www.dji.com/mavic-2-enterprise?utm_source=Twitter&utm_medium=Social&utm_campaign=M2E
+
 ## Intel Ready to fly 
 https://docs.px4.io/en/flight_controller/intel_aero.html
 https://www.intel.com.au/content/www/au/en/products/drones/aero-ready-to-fly.html
