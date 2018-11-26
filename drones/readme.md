@@ -36,6 +36,18 @@ https://www.faa.gov/news/updates/?newsId=85227&cid=TW414
 
 # Development
 
+
+
+## How does my drone interact with Azure AI Services ? 
+```
+With this SDK, we now have three methods to enable Azure AI services to interact with drone imagery and video in real-time:
+
+Drone imagery can be sent directly to Azure for processing by an AI workload.
+Drone imagery can be processed on Windows running Azure IoT Edge with an AI workload.
+Drone imagery can be processed directly onboard drones running Azure IoT Edge with an AI workload.
+```
+https://azure.microsoft.com/en-au/blog/building-an-ecosystem-for-responsible-drone-use-and-development-on-microsoft-azure/
+
 ## Dronecode
 airframe reference https://docs.px4.io/en/airframes/airframe_reference.html
 
@@ -43,6 +55,11 @@ airframe reference https://docs.px4.io/en/airframes/airframe_reference.html
 
 
 # Drones
+
+## DJI Mavic Pro
+Is the Mavic Pro getting the Windows SDK ? 
+Aparently yes ...https://stackoverflow.com/questions/50323037/mavic-pro-microsoft-build-2018-windows-sdk
+
 
 ## DJI Mavic 2 Enterprise
 https://www.dji.com/mavic-2-enterprise?utm_source=Twitter&utm_medium=Social&utm_campaign=M2E
