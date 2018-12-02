@@ -1,3 +1,11 @@
+## Interesting case studies
+
+### Drones to spot sharks
+https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/
+https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development
+
+
+
 ## What are some related open source projects ? 
 
 [The official DJI SDK](https://github.com/dji-sdk/Mobile-UXSDK-Android)
