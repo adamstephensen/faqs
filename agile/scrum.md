@@ -2,7 +2,7 @@
 
 ## What should I read / watch
 
-[The Scrum Guide] (https://www.scrum.org/resources/scrum-guide?)
+[The Scrum Guide](https://www.scrum.org/resources/scrum-guide?)
 
 [Who should be the product owner?](https://rules.ssw.com.au/do-you-know-the-how-to-be-a-good-product-owner)
 
