@@ -200,6 +200,7 @@ It is also worth checking out
 Adaptive Cards are a new way for developers to exchange card content in a common and consistent way.
 See the official page at http://adaptivecards.io/ for more.
 Here is the video introduction from the Build conference https://www.youtube.com/watch?v=VjIhd_9Az9w
+Check out adaptive cards designer here https://acdesignerbeta.azurewebsites.net/
 
 ## Where can I find out information about the Bot Framework v4? 
 
