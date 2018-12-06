@@ -1,9 +1,25 @@
 ## Interesting case studies
 
-### Drones to spot sharks
-https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/
-https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development
+### Farm Beats
+- https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/
 
+### Drones to spot sharks
+- https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/
+- https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development
+
+### Fish Detection in Darwin
+- https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
+
+### DJI Partnership
+- Announcement: https://news.microsoft.com/2018/05/07/dji-and-microsoft-partner-to-bring-advanced-drone-technology-to-the-enterprise/ 
+- Demonstration: https://www.youtube.com/watch?v=EruH-4Fvecc
+
+### Project Brainwave (using FPGAs to accelerate DNNs ie. Fast hardware to do AI faster ;-)
+- https://www.forbes.com/sites/patrickmoorhead/2018/05/07/microsoft-shows-iot-momentum-with-new-support-from-qualcomm-nxp-and-dji/#21cfa9f0556c 
+- https://www.microsoft.com/en-us/research/project/project-brainwave/ 
+
+### Airsim (training machine learning models using simulations)
+- https://www.techrepublic.com/article/microsofts-ai-system-for-training-autonomous-cars-and-drones-goes-open-source/
 
 
 ## What are some related open source projects ? 
