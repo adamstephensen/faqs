@@ -1,35 +1,35 @@
 ## Interesting case studies
 
-### Farm Beats
+#### Farm Beats
 - https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/
 - https://news.microsoft.com/2018/05/07/dji-and-microsoft-partner-to-bring-advanced-drone-technology-to-the-enterprise/
 
-### Drones to spot sharks
+#### Drones to spot sharks
 - https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/
 - https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development
 
-### Teaching drones to aid surf and rescue operations with Cognitive Serviecs
+#### Teaching drones to aid surf and rescue operations with Cognitive Serviecs
 https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/ 
 
 
-### DJI Partnership
+#### DJI Partnership
 - Announcement: https://news.microsoft.com/2018/05/07/dji-and-microsoft-partner-to-bring-advanced-drone-technology-to-the-enterprise/ 
 - Demonstration: https://www.youtube.com/watch?v=EruH-4Fvecc
 
-### Project Brainwave (using FPGAs to accelerate DNNs ie. Fast hardware to do AI faster ;-)
+#### Project Brainwave (using FPGAs to accelerate DNNs ie. Fast hardware to do AI faster ;-)
 - https://www.forbes.com/sites/patrickmoorhead/2018/05/07/microsoft-shows-iot-momentum-with-new-support-from-qualcomm-nxp-and-dji/#21cfa9f0556c 
 - https://www.microsoft.com/en-us/research/project/project-brainwave/ 
 
-### Airsim (training machine learning models using simulations)
+#### Airsim (training machine learning models using simulations)
 - https://www.techrepublic.com/article/microsofts-ai-system-for-training-autonomous-cars-and-drones-goes-open-source/
 
-### Fish Detection in Darwin (not an actual drone case study but we use this ML from drones)
+#### Fish Detection in Darwin (not an actual drone case study but we use this ML from drones)
 - https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
 
-### Powerline fault detection 
+#### Powerline fault detection 
 - https://blogs.technet.microsoft.com/machinelearning/2016/11/02/connected-drones-3-powerful-lessons-we-can-all-take-away/ 
 
-### Project Premonition – detecting pathogens before they cause outbreaks
+#### Project Premonition – detecting pathogens before they cause outbreaks
 - https://www.microsoft.com/en-us/research/project/project-premonition/ 
 
 
@@ -53,19 +53,10 @@ There are lots of awesome things people are doing with drones.
 - [Using drones to track koalas](https://www.brisbanetimes.com.au/environment/conservation/heat-seeking-drones-find-brisbane-s-hiding-koalas-20181003-p507km.html)
 - [Shark-detecting drones take to the skies in Australia](https://www.theverge.com/2017/8/28/16213416/drones-australia-shark-attack-ai-little-ripper)
 - [Shark Drone AI](https://pickle.nine.com.au/2018/07/13/16/06/shark-attack-drone-patrolling-australian-beaches)
-
-
-DJI AirWorks - Limitless Possibilities With Onboard SDK 3.2
-https://binged.it/2zsHDfF
-
-
-Project Wing
-https://x.company/projects/wing/
-Project wing is delivering GMG in SA 
-https://blog.x.company/testing-in-the-australian-skies-5a71db1ed6fe
-
-FAA Releases 2016 to 2036 Aerospace Forecast
-https://www.faa.gov/news/updates/?newsId=85227&cid=TW414
+- [DJI AirWorks - Limitless Possibilities With Onboard SDK 3.2](https://binged.it/2zsHDfF)
+- [Project Wing](https://x.company/projects/wing/)
+- [Project wing is delivering GMG in SA](https://blog.x.company/testing-in-the-australian-skies-5a71db1ed6fe)
+- [FAA Releases 2016 to 2036 Aerospace Forecast](https://www.faa.gov/news/updates/?newsId=85227&cid=TW414)
 
 # Development
 
