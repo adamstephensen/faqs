@@ -2,13 +2,15 @@
 
 ### Farm Beats
 - https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/
+- https://news.microsoft.com/2018/05/07/dji-and-microsoft-partner-to-bring-advanced-drone-technology-to-the-enterprise/
 
 ### Drones to spot sharks
 - https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/
 - https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development
 
-### Fish Detection in Darwin
-- https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
+### Teaching drones to aid surf and rescue operations with Cognitive Serviecs
+https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/ 
+
 
 ### DJI Partnership
 - Announcement: https://news.microsoft.com/2018/05/07/dji-and-microsoft-partner-to-bring-advanced-drone-technology-to-the-enterprise/ 
@@ -20,6 +22,16 @@
 
 ### Airsim (training machine learning models using simulations)
 - https://www.techrepublic.com/article/microsofts-ai-system-for-training-autonomous-cars-and-drones-goes-open-source/
+
+### Fish Detection in Darwin (not an actual drone case study but we use this ML from drones)
+- https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
+
+### Powerline fault detection 
+https://blogs.technet.microsoft.com/machinelearning/2016/11/02/connected-drones-3-powerful-lessons-we-can-all-take-away/ 
+
+### Project Premonition – detecting pathogens before they cause outbreaks
+https://www.microsoft.com/en-us/research/project/project-premonition/ 
+
 
 
 ## What are some related open source projects ? 
