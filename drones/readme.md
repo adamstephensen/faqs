@@ -27,35 +27,32 @@ https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-s
 - https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
 
 ### Powerline fault detection 
-https://blogs.technet.microsoft.com/machinelearning/2016/11/02/connected-drones-3-powerful-lessons-we-can-all-take-away/ 
+- https://blogs.technet.microsoft.com/machinelearning/2016/11/02/connected-drones-3-powerful-lessons-we-can-all-take-away/ 
 
 ### Project Premonition – detecting pathogens before they cause outbreaks
-https://www.microsoft.com/en-us/research/project/project-premonition/ 
+- https://www.microsoft.com/en-us/research/project/project-premonition/ 
 
 
 
 ## What are some related open source projects ? 
 
-[The official DJI SDK](https://github.com/dji-sdk/Mobile-UXSDK-Android)
-
-[Demo - Dragon Drone](https://github.com/dwcares/DragonDrone) 
-
-[Demo - Mavic with Cognitive Services](https://github.com/Li-Yanzhi/DJI-CognitiveService)
+- [The official DJI SDK](https://github.com/dji-sdk/Mobile-UXSDK-Android)
+- [Demo - Dragon Drone](https://github.com/dwcares/DragonDrone) 
+- [Demo - Mavic with Cognitive Services](https://github.com/Li-Yanzhi/DJI-CognitiveService)
 
 ## What are interesting articles out coding with drones ? 
 
-[Drone Girls - Announcing DJI Microsoft SDK](http://thedronegirl.com/2018/05/07/dji-microsoft-sdk/)
-
-[Hacking the Tello](https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/)
+- [Drone Girls - Announcing DJI Microsoft SDK](http://thedronegirl.com/2018/05/07/dji-microsoft-sdk/)
+- [Hacking the Tello](https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/)
 
 ## How can I start to understand drone mapping ?
 This is a great article on drone mapping. https://www.dronepilotgroundschool.com/drone-mapping-software/
 
 ## What cool things are people doing with drones ? 
 There are lots of awesome things people are doing with drones.
-[Using drones to track koalas](https://www.brisbanetimes.com.au/environment/conservation/heat-seeking-drones-find-brisbane-s-hiding-koalas-20181003-p507km.html)
-[Shark-detecting drones take to the skies in Australia](https://www.theverge.com/2017/8/28/16213416/drones-australia-shark-attack-ai-little-ripper)
-[Shark Drone AI](https://pickle.nine.com.au/2018/07/13/16/06/shark-attack-drone-patrolling-australian-beaches)
+- [Using drones to track koalas](https://www.brisbanetimes.com.au/environment/conservation/heat-seeking-drones-find-brisbane-s-hiding-koalas-20181003-p507km.html)
+- [Shark-detecting drones take to the skies in Australia](https://www.theverge.com/2017/8/28/16213416/drones-australia-shark-attack-ai-little-ripper)
+- [Shark Drone AI](https://pickle.nine.com.au/2018/07/13/16/06/shark-attack-drone-patrolling-australian-beaches)
 
 
 DJI AirWorks - Limitless Possibilities With Onboard SDK 3.2
