@@ -24,6 +24,9 @@
 
 - [DR for Azure Applications](https://docs.microsoft.com/en-us/azure/architecture/resiliency/disaster-recovery-azure-applications)
 - [DR for SQL Server](https://docs.microsoft.com/en-us/sql/database-engine/sql-server-business-continuity-dr?view=sql-server-2017) 
+- [Business continuity and disaster recovery (BCDR): Azure Paired Regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions)
+- [Designing resilient applications for Azure](https://docs.microsoft.com/en-us/azure/architecture/resiliency/index)
+
 
 ## PCI compliant architectures
 
