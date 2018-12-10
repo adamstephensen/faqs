@@ -4,10 +4,6 @@
 - https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/
 - https://news.microsoft.com/2018/05/07/dji-and-microsoft-partner-to-bring-advanced-drone-technology-to-the-enterprise/
 
-#### Drones to spot sharks
-- https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/
-- https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development
-
 #### Teaching drones to aid surf and rescue operations with Cognitive Serviecs
 https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/ 
 
@@ -52,11 +48,16 @@ This is a great article on drone mapping. https://www.dronepilotgroundschool.com
 There are lots of awesome things people are doing with drones.
 - [Using drones to track koalas](https://www.brisbanetimes.com.au/environment/conservation/heat-seeking-drones-find-brisbane-s-hiding-koalas-20181003-p507km.html)
 - [Shark-detecting drones take to the skies in Australia](https://www.theverge.com/2017/8/28/16213416/drones-australia-shark-attack-ai-little-ripper)
-- [Shark Drone AI](https://pickle.nine.com.au/2018/07/13/16/06/shark-attack-drone-patrolling-australian-beaches)
-- [DJI AirWorks - Limitless Possibilities With Onboard SDK 3.2](https://binged.it/2zsHDfF)
 - [Project Wing](https://x.company/projects/wing/)
 - [Project wing is delivering GMG in SA](https://blog.x.company/testing-in-the-australian-skies-5a71db1ed6fe)
 - [FAA Releases 2016 to 2036 Aerospace Forecast](https://www.faa.gov/news/updates/?newsId=85227&cid=TW414)
+- [DJI AirWorks - Limitless Possibilities With Onboard SDK 3.2](https://binged.it/2zsHDfF)
+
+#### Drones to spot sharks
+- [The Verge - Shark-detecting drones take to the skies in Australia](https://www.theverge.com/2017/8/28/16213416/drones-australia-shark-attack-ai-little-ripper)
+- [Nine - High-tech shark-spotting drones could soon patrol Aussie beaches](https://pickle.nine.com.au/2018/07/13/16/06/shark-attack-drone-patrolling-australian-beaches)
+- [Northern Star - Technology keeps eye on sharks](https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/)
+- [Ripper International - Shark Ppotter](https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development)
 
 # Development
 
