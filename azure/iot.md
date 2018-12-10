@@ -42,3 +42,7 @@ After you create a Microsoft Azure IoT Central application, you can use the Admi
 
 ## When application is created in Azure IoT Central, it does not reflect in Azure Portal
 When users create an IoT Central trial (Free) it does not require Azure Subscription therefore it will not reflect in Azure Portal. A user can have only one active trial at a time. The trial allows users to add up to 5 devices (real or simulated) and lasts for 7 days after activation. [Follow this link](https://azure.microsoft.com/en-us/pricing/details/iot-central/) and navigate to FAQ for trial limitations. 
+
+
+## IOT Edge + OpenCV
+https://kevinsaye.wordpress.com/2018/04/16/creating-an-opencv-module-for-iot-edge/ *tood*
