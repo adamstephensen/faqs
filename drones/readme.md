@@ -52,6 +52,7 @@ There are lots of awesome things people are doing with drones.
 - [Project wing is delivering GMG in SA](https://blog.x.company/testing-in-the-australian-skies-5a71db1ed6fe)
 - [FAA Releases 2016 to 2036 Aerospace Forecast](https://www.faa.gov/news/updates/?newsId=85227&cid=TW414)
 - [DJI AirWorks - Limitless Possibilities With Onboard SDK 3.2](https://binged.it/2zsHDfF)
+- [Drones used by police forces](https://bc.ctvnews.ca/video?clipId=1536701)
 
 #### Drones to spot sharks
 - [The Verge - Shark-detecting drones take to the skies in Australia](https://www.theverge.com/2017/8/28/16213416/drones-australia-shark-attack-ai-little-ripper)
