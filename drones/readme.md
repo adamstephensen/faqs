@@ -101,3 +101,7 @@ Review https://bestdroneforthejob.com/drone-reviews/dji-matrice-200-review/
 ## Live streaming from drones
 
 https://briandunnington.github.io/dronecast.html *todo*
+
+
+## CPU vs GPU vs FPGA
+https://ai4e.azurewebsites.net/fpga
