@@ -1,3 +1,7 @@
+## Load balancing options
+
+https://docs.microsoft.com/en-au/azure/frontdoor/front-door-lb-with-azure-app-delivery-suite *todo*
+
 ## What are service endpoints ? 
 
 Virtual Network (VNet) service endpoints extend your virtual network private address space and the identity of your VNet to the Azure services, over a direct connection. Endpoints allow you to secure your critical Azure service resources to only your virtual networks. Traffic from your VNet to the Azure service always remains on the Microsoft Azure backbone network.
