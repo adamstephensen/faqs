@@ -4,6 +4,7 @@
 ## Jetson TX2
 - [Jetson Tx2 Home Page](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems-dev-kits-modules/)
 - [Jetson TX2 Official Specs](https://developer.nvidia.com/embedded/buy/jetson-tx2-devkit)
+- [NVidia drone page](https://www.nvidia.com/en-us/autonomous-machines/uavs-drones-technology/)
 -	[M600 with TX2 for shark spotting](https://www.youtube.com/watch?v=GF_M4XB--UQ)
 -	[Unboxing tx2](https://www.youtube.com/watch?v=kl2rMlHde4k )
 - [Jetpack 3.0 and TX2](https://www.youtube.com/watch?v=D7lkth34rgM)
