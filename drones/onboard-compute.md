@@ -10,6 +10,7 @@
 -	[Unboxing tx2](https://www.youtube.com/watch?v=kl2rMlHde4k )
 - [Jetpack 3.0 and TX2](https://www.youtube.com/watch?v=D7lkth34rgM)
 - [VentureBeat - Nvidia’s Jetson platform can power drones with good artificial intelligence](https://venturebeat.com/2017/03/07/nvidias-jetson-platform-can-power-drones-with-good-artificial-intelligence/)
+- [drone pilotted by dnn](https://www.youtube.com/watch?v=voVxIGyeqgo)
 
 ## Jetson AGX Xavier (TX2s big brother)
 - [Official Specs](https://developer.nvidia.com/embedded/buy/jetson-xavier-devkit)
