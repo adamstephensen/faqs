@@ -28,6 +28,13 @@ https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-s
 #### Project Premonition – detecting pathogens before they cause outbreaks
 - https://www.microsoft.com/en-us/research/project/project-premonition/ 
 
+#### Airmap
+- https://www.airmap.com/microsoft-azure-cloud-ethical-drone-skyguide/
+- https://azure.microsoft.com/en-au/blog/building-an-ecosystem-for-responsible-drone-use-and-development-on-microsoft-azure/
+
+#### Zerotech 
+Zerotech smart pocket drone solution architecture
+https://microsoft.github.io/techcasestudies/iot/2017/04/10/Zerotech.html
 
 
 ## What are some related open source projects ? 
@@ -40,6 +47,7 @@ https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-s
 
 - [Drone Girls - Announcing DJI Microsoft SDK](http://thedronegirl.com/2018/05/07/dji-microsoft-sdk/)
 - [Hacking the Tello](https://gobot.io/blog/2018/04/20/hello-tello-hacking-drones-with-go/)
+- [Drone Garage - Channel 9 videos](https://channel9.msdn.com/Shows/Drones-Garage)
 
 ## How can I start to understand drone mapping ?
 This is a great article on drone mapping. https://www.dronepilotgroundschool.com/drone-mapping-software/
