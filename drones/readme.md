@@ -33,9 +33,11 @@ https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-s
 - https://azure.microsoft.com/en-au/blog/building-an-ecosystem-for-responsible-drone-use-and-development-on-microsoft-azure/
 
 #### Zerotech 
-Zerotech smart pocket drone solution architecture
-https://microsoft.github.io/techcasestudies/iot/2017/04/10/Zerotech.html
+- Zerotech smart pocket drone solution architecture
+- https://microsoft.github.io/techcasestudies/iot/2017/04/10/Zerotech.html
 
+#### Droneworks
+- https://microsoft.github.io/techcasestudies/iot/2017/05/19/DroneWorks.html
 
 ## What are some related open source projects ? 
 
