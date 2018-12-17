@@ -1,3 +1,7 @@
+## Overviews
+- great tx2 overview https://hackaday.com/2017/03/14/hands-on-nvidia-jetson-tx2-fast-processing-for-embedded-devices/
+- programming languages for the jetson https://www.jetsonhacks.com/2016/08/18/thoughts-on-programming-languages-and-environments-part-iv-jetson-dev-kits/
+
 ## Tips for working with the tx2
 - You need to run Linux on bare metal. 
 - [Never use ```sudo``` to run jetpack](https://devtalk.nvidia.com/default/topic/1027939/inquire-about-jetpack-3-2/)
