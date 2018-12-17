@@ -6,6 +6,7 @@ For more info check out https://docs.microsoft.com/en-us/azure/bot-service/bot-s
 Sure can. Check out the following: 
 1. The Microsoft Health Bot http://aka.ms/ai/healthbot
 2. 'Sam' - a public-facing chatbot for DHS https://www.humanservices.gov.au/individuals/students-and-trainees
+3. Contoso Scuba - http://contososcubademo.azurewebsites.net
 
 ## Where can I find documentation ?
 There is lots of great documentation on bots.
@@ -199,6 +200,7 @@ It is also worth checking out
 Adaptive Cards are a new way for developers to exchange card content in a common and consistent way.
 See the official page at http://adaptivecards.io/ for more.
 Here is the video introduction from the Build conference https://www.youtube.com/watch?v=VjIhd_9Az9w
+Check out adaptive cards designer here https://acdesignerbeta.azurewebsites.net/
 
 ## Where can I find out information about the Bot Framework v4? 
 
