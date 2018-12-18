@@ -20,3 +20,7 @@ https://github.com/dji-sdk/Onboard-SDK/issues/280
 
 ##DJI Ros 
 https://github.com/ethz-asl/mav_dji_ros_interface/wiki/Introduction
+
+## Intel and Microsoft on the edge
+https://newsroom.intel.com/news/intel-microsoft-enable-ai-inference-edge-intel-movidius-vision-processing-units-windows-ml/
+
