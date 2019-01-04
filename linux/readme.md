@@ -1,5 +1,7 @@
 ## linux commands
 - [apt commmand guide](https://itsfoss.com/apt-command-guide/)
+- [debian apt user manual](https://www.debian.org/doc/user-manuals#apt-howto)
+- [ubuntu aptget manual](https://help.ubuntu.com/community/AptGet/Howto)
 
 apt command | description
 ------------| -----------
@@ -40,3 +42,23 @@ apt search	| apt-cache search | Searches for the program
 apt show	| apt-cache show	| Shows package details
 apt list | (none) |	Lists packages with criteria (installed, upgradable etc)
 apt edit-sources | (none) |	Edits sources list
+??? | sudo apt-get install -f | apt-get fix broken packages
+
+
+## What's the go with ```curl```
+
+You use ```curl``` to download stuff.
+- [project page](https://github.com/curl/curl)
+- [manual](https://curl.haxx.se/docs/manual.html)
+
+
+command | usage
+--- | ---
+ curl http://www.netscape.com/ | download a page
+ curl -o thatpage.html http://www.netscape.com/ | download a page and store in thatpage.html
+ curl -O http://www.netscape.com/index.html | get a remote file, and store it with it's own name
+   curl -O www.haxx.se/index.html -O curl.haxx.se/download.html | download two files
+ curl -L https://aka.ms/moby-engine-armhf-latest -o moby_engine.deb | -L, --location If the server reports that the requested page has moved to a different location (indicated with a Location: header and a 3XX response code), this option will make curl redo the request on the new place.   
+
+
+```
