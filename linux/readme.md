@@ -24,8 +24,9 @@ apt show <package_name> | see the details of a package
   sudo apt autoremove | This command removes libs and packages that were installed automatically to satisfy the dependencies of an installed package. 
   
 
-## What's the difference between apt and apt-get
+## What's the difference between apt and apt-get and dpkg
 
+- [dpkg](https://help.ubuntu.com/lts/serverguide/dpkg.html.en) is a low level package manager. it can't download packages
 - [apt vs apt-get](https://itsfoss.com/apt-vs-apt-get-difference/)
 includes a list of apt and apt-get comands
 
