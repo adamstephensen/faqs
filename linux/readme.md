@@ -64,3 +64,13 @@ command | usage
 
 ## What is 'nano' ? 
 GNU nano is a simple terminal-based text editor. 
+https://help.ubuntu.com/community/Nano
+[Nano home page](https://www.nano-editor.org/)
+[Nano docs](https://www.nano-editor.org/docs.php)
+
+## Other helpful links
+
+- [Basic Introduction to Emacs](https://help.ubuntu.com/community/EmacsHowto)
+- [Introduction to Vim: VimHowto](https://help.ubuntu.com/community/VimHowto)
+- [How To Use The Terminal](https://help.ubuntu.com/community/HowToUseTheTerminal )
+- [Command line How to](https://help.ubuntu.com/community/CommandlineHowto)
