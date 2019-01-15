@@ -22,7 +22,10 @@ https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-s
 #### Fish Detection in Darwin (not an actual drone case study but we use this ML from drones)
 - https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
 
-#### Powerline fault detection 
+#### Powerline fault detection - eSmart Systems
+- [video: How eSmart Systems and Microsoft Azure are helping utility companies 3 min](https://www.youtube.com/watch?v=Jzj1e7CutnU)
+- [video: Connected Drone Video 3 - eSmart Systems has developed a drone that uses AI on Microsoft Azure 1:30 min](https://www.youtube.com/watch?v=nbMt5hHvpnc)
+- [video: eSmart Systems mission ePossible - Big Data, elhub, connected grid, Microsoft azure 3 min](https://www.youtube.com/watch?v=iAxNtJVwcrE)
 - https://blogs.technet.microsoft.com/machinelearning/2016/11/02/connected-drones-3-powerful-lessons-we-can-all-take-away/ 
 
 #### Project Premonition – detecting pathogens before they cause outbreaks
