@@ -17,7 +17,10 @@ https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-s
 - https://www.microsoft.com/en-us/research/project/project-brainwave/ 
 
 #### Airsim (training machine learning models using simulations)
+- https://blogs.microsoft.com/ai/microsoft-shares-open-source-system-training-drones-gadgets-move-safely/#sm.0000v6wvaed0drn11001f2ntvjw5s
 - https://www.techrepublic.com/article/microsofts-ai-system-for-training-autonomous-cars-and-drones-goes-open-source/
+- https://www.youtube.com/watch?v=-WfTr1-OBGQ&feature=youtu.be
+
 
 #### Fish Detection in Darwin (not an actual drone case study but we use this ML from drones)
 - https://news.microsoft.com/en-au/features/fishy-business-putting-ai-to-work-in-australias-darwin-harbour/
