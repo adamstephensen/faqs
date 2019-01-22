@@ -278,4 +278,7 @@ https://github.com/Azure/LearnAI-Bootcamp/tree/master/lab02.2-building_bots
 ## How do I integrate my bot with Alexa ? 
 To build an Alexa skill with the bot framework check this out https://github.com/CatalystCode/alexa-bridge 
 
-
+## How do I do logging ? 
+- [Microsoft Lab for logging ](https://github.com/Azure/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework)
+- [ibex dashboard](https://github.com/Azure/ibex-dashboard)
+- [instrumentation library](https://github.com/Azure/botbuilder-instrumentation)
