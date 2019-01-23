@@ -282,3 +282,8 @@ To build an Alexa skill with the bot framework check this out https://github.com
 - [Microsoft Lab for logging ](https://github.com/Azure/learnAnalytics-AdvancedFeaturesforMicrosoftBotFramework)
 - [ibex dashboard](https://github.com/Azure/ibex-dashboard)
 - [instrumentation library](https://github.com/Azure/botbuilder-instrumentation)
+
+
+## How do I merge multiple QnA Maker and Luis models ? 
+You can use the dispatch tool to create and evaluate LUIS models used to dispatch intent across multiple bot modules such as LUIS models and QnA knowledge bases. You can find out more about the Dispatch tool from the [GitHub repository(https://github.com/Microsoft/botbuilder-tools/blob/master/packages/Dispatch/readme.md)
+ 
