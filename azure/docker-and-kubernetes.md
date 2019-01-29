@@ -111,3 +111,5 @@ The App Service Web Application Reference Architecture (for scalability)
 Here is a the Microsoft guidance on a scalable web app. https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app 
 
 
+## k8s failure stories
+https://srcco.de/posts/kubernetes-failure-stories.html *todo*
