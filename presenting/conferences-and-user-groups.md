@@ -1,3 +1,3 @@
-.NET User Groups
-https://www.meetup.com/Melbourne-NET-User-Group/events/258348103/
+##.NET User Groups
+- [Melbourne .NET User Group](https://www.meetup.com/Melbourne-NET-User-Group/)
 
