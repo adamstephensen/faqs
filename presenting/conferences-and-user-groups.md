@@ -1,8 +1,11 @@
-## Conferences
+# Conferences
 - [NDC Sydney](https://ndcsydney.com/)
 - [DDD Brisbane](http://dddbrisbane.com)
 - [DDD Melbourne](https://www.dddmelbourne.com/)
 - [DDD Sydney](http://dddsydney.com/)
+
+# Meetups
+Below is a list of some of the meetups that happen around the country. 
 
 ## Aust
 - [Microsoft events in Australia](https://www.meetup.com/Microsoft-events-in-Australia/)
