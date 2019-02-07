@@ -11,3 +11,6 @@ Decisions about where to invest in a project are often made on 'gut feel' of wha
 
 ### App Insights Saves you money
 The cloud is all about pay for use - in the old days you bought a server, and whether it was running at 10% utilisation or 60% you paid the same amount. The cloud rewards optimised applications.
+
+## Can I move from ELK to App Insights?
+Here is an article about moving from ELK to App Insights https://azure.microsoft.com/en-au/blog/ladies-and-gentlemen-start-your-logging/
