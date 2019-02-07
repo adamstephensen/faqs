@@ -113,3 +113,6 @@ Here is a the Microsoft guidance on a scalable web app. https://docs.microsoft.c
 
 ## k8s failure stories
 https://srcco.de/posts/kubernetes-failure-stories.html *todo*
+
+## Logging and monitoring on K8s
+https://zimmergren.net/enable-monitoring-with-azure-monitor-log-analytics-for-aks/
