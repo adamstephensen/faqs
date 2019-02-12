@@ -22,3 +22,6 @@ cd /home/me/jetpack
 
 This article is awesome and is the source for many of the links on this page
 https://medium.com/@surmenok/getting-started-with-nvidia-jetson-tx2-5952a2d8d7ae
+
+JetPack 3.0 – NVIDIA Jetson TX2 Development Kit
+https://www.jetsonhacks.com/2017/03/21/jetpack-3-0-nvidia-jetson-tx2-development-kit/
