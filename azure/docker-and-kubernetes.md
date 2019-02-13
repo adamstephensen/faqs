@@ -116,3 +116,8 @@ https://srcco.de/posts/kubernetes-failure-stories.html *todo*
 
 ## Logging and monitoring on K8s
 https://zimmergren.net/enable-monitoring-with-azure-monitor-log-analytics-for-aks/
+
+## installing docker on linux
+https://www.linux.com/learn/intro-to-linux/2017/11/how-install-and-use-docker-linux
+
+
