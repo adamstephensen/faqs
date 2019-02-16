@@ -1,3 +1,8 @@
+## Where do I start to get my head around integratin services ? 
+- [Integration Home page](https://azure.microsoft.com/en-us/product-categories/integration/)
+- Video: Azure Essentials – [Integrating your Apps with Azure](https://www.youtube.com/watch?v=BcpzXwezudI)
+ 
+
 ## How do I connect API Management to my internal network
 Here is how to connect my APIM to internal network
 https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-integrate-internal-vnet-appgateway
