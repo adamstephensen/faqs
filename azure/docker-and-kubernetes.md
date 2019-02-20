@@ -123,7 +123,7 @@ https://www.linux.com/learn/intro-to-linux/2017/11/how-install-and-use-docker-li
 # connect cosmosdb to k8s
 https://medium.com/@marcodesanctis2/consume-cosmos-db-or-other-paas-services-from-azure-kubernetes-service-4ee0e304cfc1
 
-## Cookbook for azure api management and services on AKS 
+## Cookbook for azure api management and services on AKS *todo*
  
 Just finished a cookbook for a customer who wanted to get started developing microservices on Azure. 
 Code and devops project: https://dev.azure.com/dude-projects/azure-apim-demo
