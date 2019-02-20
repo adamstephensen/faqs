@@ -230,6 +230,8 @@ There are many right ways to architect a bot.
 
 Here are some pattherns and references I find useful: 
 
+[New enterprise bot architecture](https://blogs.msdn.microsoft.com/azurecat/2019/02/05/new-reference-architecture-enterprise-grade-conversational-bot/)
+
 [The Scalable Web App reference architecture]
 (https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app)
 
