@@ -120,4 +120,6 @@ https://zimmergren.net/enable-monitoring-with-azure-monitor-log-analytics-for-ak
 ## installing docker on linux
 https://www.linux.com/learn/intro-to-linux/2017/11/how-install-and-use-docker-linux
 
+# connect cosmosdb to k8s
+https://medium.com/@marcodesanctis2/consume-cosmos-db-or-other-paas-services-from-azure-kubernetes-service-4ee0e304cfc1
 
