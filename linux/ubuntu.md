@@ -7,3 +7,4 @@ https://www.ubuntu.com/download/desktop
 - https://www.lifewire.com/dual-boot-linux-and-mac-os-4125733
 - https://www.maketecheasier.com/install-dual-boot-ubuntu-mac/
 - https://www.howtogeek.com/187410/how-to-install-and-dual-boot-linux-on-a-mac/
+- https://www.maketecheasier.com/install-dual-boot-ubuntu-mac/
