@@ -75,6 +75,13 @@ There are lots of awesome things people are doing with drones.
 - [Nine - High-tech shark-spotting drones could soon patrol Aussie beaches](https://pickle.nine.com.au/2018/07/13/16/06/shark-attack-drone-patrolling-australian-beaches)
 - [Northern Star - Technology keeps eye on sharks](https://www.northernstar.com.au/news/technology-keeps-eye-on-sharks/3168053/)
 - [Ripper International - Shark Ppotter](https://www.ripperacademy.com/news-and-events/sharkspotter-algorithm-development)
+- BBC News https://www.youtube.com/watch?v=InjxuXm5CJg
+zipline drone delivery of blood in Ruwanda and Tansania
+Vodafone - low altitude ATC for drones
+18.30 Shark detection
+trained human operator on helicopter . 20-30%
+shark spotter - >90%
+first drone rescue - deployed a pot in 70 seconds from takeoff to delivery
 
 # Development
 
