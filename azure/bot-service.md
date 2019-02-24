@@ -16,6 +16,9 @@ There is lots of great documentation on bots.
 - The bot framework developer portal https://dev.botframework.com/
 - Bot Builder SDK for .NET https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-overview
 
+## Where can I get walk through training ? 
+- https://aischool.microsoft.com/en-us/conversational/learning-paths/building-bots-with-rest
+
 ## Where can I get sample applications ? 
 There are heaps of awesome samples for the Azure Bot Service here https://github.com/Microsoft/BotBuilder-Samples
 
