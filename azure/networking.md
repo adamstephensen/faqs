@@ -33,5 +33,12 @@ Resources
 - [Azure Frondoor - on Azure Fridays](https://www.youtube.com/watch?v=3Di9H1V0zuc)
 - [Azure Frontdoor - Homepage](https://azure.microsoft.com/en-au/services/frontdoor/)
 
+## DNS Tools
+
+- https://www.whois.com.au/whois/dns.html
+- https://www.ultratools.com/tools/dnsLookupResult
+
+
+
 
 
