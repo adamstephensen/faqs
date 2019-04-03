@@ -15,6 +15,7 @@ Important: This Demo sets up for later demos by getting long running tasks out o
 	c. Subscription  
 	d. Favorites  
 	
+The Azure account is a global unique entity that gets you access to Azure services and your Azure subscriptions. You can create multiple subscriptions in your Azure account to create separation e.g. for billing or management purposes. In your subscription(s) you can manage resources in resources groups. Azure subscription can have a trust relationship with an Azure Active Directory (Azure AD) instance – more here.  	
 An Azure subscription has a trust relationship with Azure Active Directory (Azure AD), which means that the subscription trusts Azure AD to authenticate users, services, and devices. Multiple subscriptions can trust the same Azure AD directory, but each subscription can only trust a single directory.
 	https://docs.microsoft.com/en-gb/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory
 
