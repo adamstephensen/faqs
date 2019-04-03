@@ -15,12 +15,17 @@ Important: This Demo sets up for later demos by getting long running tasks out o
 	c. Subscription  
 	d. Favorites  
 	
+An Azure subscription has a trust relationship with Azure Active Directory (Azure AD), which means that the subscription trusts Azure AD to authenticate users, services, and devices. Multiple subscriptions can trust the same Azure AD directory, but each subscription can only trust a single directory.
+	https://docs.microsoft.com/en-gb/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory
+
+	
 5. Look at Resource Groups  
 	a. Explain that everything in Azure is a Resource  
 	b. Explain that every Resource must live in a Resource Groups  
 	c. Explain that Resource Groups live in a Subscription  
 	d. Browse and navigate to an existing resource group, and talk about the resources in it  
 	e. Create a new Resource Group for today’s Azure Discovery Day  
+	
 6. Look at Virtual Machines and Classic Virtual Machines  
 	a. Explain that ARM VMs end up in Virtual Machines  
 	b. Explain that ASM / Classic VMs end up in Classic Virtual Machines  
