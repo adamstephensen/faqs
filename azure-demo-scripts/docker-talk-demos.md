@@ -8,7 +8,7 @@
 
 #5 AKS Demo - Scripted
 
-- Check out the [Simple AKS Demo script][./aks-simple.md] in this folder
+- Check out the [Simple AKS Demo script](./aks-simple.md) in this folder
 
 #6 AKS Demo - from Azure DevOps Project
 - Create an Azure Devops | .NET Core | AKS project
