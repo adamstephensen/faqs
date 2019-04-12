@@ -1,6 +1,12 @@
+
+#0 Create dotnote core, ruby and / or node app, containerise and deploy
+- based on https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-docker-go
+
 #1 Container Web Apps: Create an Azure DevOps Project for .NET Core in Container
+- show how much easier it is that #0 and it has full devops. 
 
 #2 Container Web Apps: Open an existing .NET Core app and add the docker file
+- don't need to do this one from scratch. just show how eash it is.
 
 #3 ACR Demo
 
