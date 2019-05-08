@@ -9,8 +9,8 @@
 az group create --name zzadams-conapp --location australiaeast
 az appservice plan create --name myAppServicePlan --resource-group zzadams-conapp --sku B1 --is-linux
 az webapp create --resource-group zzadams-conapp --plan myAppServicePlan --name adams-conapp --deployment-container-image-name microsoft/azure-appservices-go-quickstart
-http://adams-conapp.azurewebsites.net/hello
-
+explorer http://adams-conapp.azurewebsites.net/hello
+az group delete --name zzadams-conapp
 
 ```
 
