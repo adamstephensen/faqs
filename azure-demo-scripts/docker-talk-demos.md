@@ -5,6 +5,15 @@
 - based on https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-docker-go
 
 
+```
+az group create --name zzadams-conapp --location australiaeast
+az appservice plan create --name myAppServicePlan --resource-group zzadams-conapp --sku B1 --is-linux
+az webapp create --resource-group zzadams-conapp --plan myAppServicePlan --name adams-conapp --deployment-container-image-name microsoft/azure-appservices-go-quickstart
+http://adams-conapp.azurewebsites.net/hello
+
+
+```
+
 
 #1 Container Web Apps: Create an Azure DevOps Project for .NET Core in Container
 - show how much easier it is that #0 and it has full devops. 
