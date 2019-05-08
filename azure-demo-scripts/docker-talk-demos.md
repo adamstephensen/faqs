@@ -39,3 +39,8 @@ az group delete --name myResourceGroup
 - Inspect the .NET Core App
 - Inspect the Build process
 - Inspect the release process
+
+
+#7 Face detection ACI Scaling demo
+https://github.com/Azure-Samples/virtual-kubelet-aci-burst
+
