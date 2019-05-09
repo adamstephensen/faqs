@@ -78,7 +78,10 @@ Also here was a list of great resources everyone provided for learning Kubernete
 - Katacoda Labs - Kubernetes https://katacoda.com/courses/kubernetes
 - Katacoda Labs - Docker https://katacoda.com/courses/docker
 - Azure Citadel - https://azurecitadel.github.io/
-- GBB Azure Kubernetes Hackfest – 
+- Azure Kubernetes hackfest - https://github.com/azure/kubernetes-hackfest
+- Azure Kuberneses Service Workshop - http://aksworkshop.io
+
+
 
 ### Large curated list of resources:
 - https://github.com/ramitsurana/awesome-kubernetes
