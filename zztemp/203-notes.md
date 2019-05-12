@@ -4,13 +4,19 @@
 
 ## Develop solutions that use file storage
 - implement quotas for file shares in storage account
+	- https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share
 - move items in file shares between containers asynchronously
+	- https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10
+	- https://docs.microsoft.com/en-us/azure/storage/common/storage-use-data-movement-library
 - set file storage container properties in metadata
+	- https://docs.microsoft.com/en-us/azure/storage/blobs/storage-properties-metadata
 
 ## Develop solutions that use a relational database
 - create, read, update, and delete database tables by using code
+	- https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice
 - implement dynamic data masking
-
+	- https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dynamic-data-masking-get-started
+	- https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-2017
 
 # 2. Create Platform as a Service (PaaS) Solutions
 
