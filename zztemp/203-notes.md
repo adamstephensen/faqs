@@ -22,9 +22,14 @@
 
 ## Create an app service Logic App
 - create a custom connector for Logic Apps, a custom template for a Logic App
+	- https://docs.microsoft.com/en-us/connectors/custom-connectors/create-logic-apps-connector
+	- https://docs.microsoft.com/en-us/connectors/custom-connectors/define-openapi-definition
+	- https://docs.microsoft.com/en-us/connectors/custom-connectors/define-postman-collection
 - create a Logic App
+	- https://docs.microsoft.com/en-us/azure/logic-apps/quickstart-create-first-logic-app-workflow
 - package an Azure App Service Logic App
-
+	- ??? ARM Template ?? 
+	- https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-create-deploy-template
 
 ## Create app or service that runs on Service Fabric
 - develop a stateful Reliable Service and a stateless Reliable Service
@@ -67,18 +72,22 @@ manage container settings by using code
 - manage transactions across multiple databases and servers
 
 
-#5 Imlement cloud integration solutions
+# 5 Imlement cloud integration solutions
+
 ## Configure a message-based integration architecture
-configure an app or service to send emails, Event Grid, and the Azure Relay Service  
-create and configure a Notification Hub, an Event Hub, and a Service Bus  
-configure queries across multiple products  
-configure an app or service with Microsoft Graph  
+- configure an app or service to send emails, Event Grid, and the Azure Relay Service  
+- create and configure a Notification Hub, an Event Hub, and a Service Bus  
+- configure queries across multiple products  
+- configure an app or service with Microsoft Graph  
+
 ## Develop an application message model
-create a message schema and a message exchange  
-create an event model  
-create topics and subscriptions  
+- create a message schema and a message exchange  
+- create an event model  
+- create topics and subscriptions  
+
 
 # 6. Develop Azure Cognitive Services, Bot, and IoT solutions
+
 ## Integrate Azure Cognitive Services in an application
 - develop solutions by using intelligent algorithms that identify items from images and videos
 - develop solutions by using intelligent algorithms related to speech, natural language processing, Bing Search, and recommendations and decision making
@@ -94,6 +103,7 @@ create topics and subscriptions
 - configure Stream Analytics service for inputs and outputs
 - establish bidirectional communication with IoT devices by using IoT Hub
 - register devices with IoT Hub Device Provisioning Service
+
 
 # 7. Develop Azure Infrastructure as a Service compute solutions
 
@@ -115,6 +125,7 @@ create topics and subscriptions
 
 
 # 8. Develop Azure Platform as a Service compute solutions
+
 ## Create Azure App Service Web Apps
 - create an Azure App Service Web App
 - create an Azure App Service background task by using WebJobs
