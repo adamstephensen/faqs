@@ -16,19 +16,21 @@ At the end of this lab you will be better able to build and deploy containerized
 - Application Developer
 - Infrastructure Architect
 
-Please note: Workshop content presumes 200-300-level of architectural expertise of infrastructure and solutions design. We suggest attendees take the Spots are strictly limited, please register to secure your place. We look forward to seeing you at the event! Microsoft Azure Essentials modules as a pre-requisite to attending the workshop.
+**Please note: Workshop content presumes 200-300-level of architectural expertise of infrastructure and solutions design.** 
 
 **Microsoft Presenter:** Ben Griffin
 
-Spots are strictly limited, please register to secure your place. We look forward to seeing you at the event!
+Spots are strictly limited. Please reply to adam.stephensen@microsoft.com to confirm places for your team. 
+
+We look forward to seeing you at the event!
 
 #### AGENDA:
-08:30 AM	Registration
-09:00 AM	Start session
-10:15 AM	Morning Tea
-12:30 PM	Lunch
-02:00 PM	Afternoon Tea
-04:00 PM	End of session
+08:30 AM	Registration  
+09:00 AM	Start session  
+10:15 AM	Morning Tea  
+12:30 PM	Lunch  
+02:00 PM	Afternoon Tea  
+04:00 PM	End of session  
  
 
 ## Workshop Topics
