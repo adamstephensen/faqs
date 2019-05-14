@@ -2,23 +2,23 @@
 # Agenda for the workshop
 
 ## Containers and Kubernetes 101
-Understanding the what, why and how containers. 
-An introduction to Kubernetes and AKS
+- Understanding the what, why and how containers. 
+- An introduction to Kubernetes and AKS
 
 ## Getting going with AKS
-Create AKS Cluster
-Build Application Components and Prerequisites
-Helm Setup and Deploy Application
+- Create AKS Cluster
+- Build Application Components and Prerequisites
+- Helm Setup and Deploy Application
 
 ## Best practices 
-Best Practices for Cluster Operators
-Best Practices for App Developers
-Security
+- Best Practices for Cluster Operators
+- Best Practices for App Developers
+- Security
 
 ## Next Steps
-CI/CD Automation
-Monitoring and Logging
-Scaling Cluster and Applications
+- CI/CD Automation
+- Monitoring and Logging
+- Scaling Cluster and Applications
 
 # Resources for learning Kubernetes
 
