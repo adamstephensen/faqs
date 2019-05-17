@@ -13,8 +13,12 @@ This hands-on lab is designed to guide you through the process of building and d
 At the end of this lab you will be better able to build and deploy containerized applications to Azure Kubernetes Service and perform common DevOps procedures.
 
 #### Who should attend:  
-- Application Developer
-- Infrastructure Architect
+- Application Developers
+- Infrastructure Architects
+
+#### What to bring
+This is a hands-on workshop. Please bring your laptop.  
+There is no need to have dev tools installed as you’ll be connecting to our demo environment. 
 
 **Please note: Workshop content presumes 200-300-level of architectural expertise of infrastructure and solutions design.** 
 
