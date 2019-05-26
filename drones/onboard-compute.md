@@ -37,3 +37,6 @@ https://newsroom.intel.com/news/intel-microsoft-enable-ai-inference-edge-intel-m
 - autonomous drone navigation video https://www.youtube.com/watch?v=voVxIGyeqgo
 - https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-model-python
 - https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/
+- https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/Vision-API-How-to-Topics/HowtoAnalyzeVideo_Vision
+- https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0
+- https://gist.github.com/richlander/467813274cea8abc624553ee72b28213
