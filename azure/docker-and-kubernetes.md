@@ -132,3 +132,16 @@ Just finished a cookbook for a customer who wanted to get started developing mic
 Code and devops project: https://dev.azure.com/dude-projects/azure-apim-demo
 Howto: https://www.youtube.com/watch?v=MFv-jKRD8x4
 Services are managed and protected by the Azure API management gateway.
+
+
+## dotnet core dockerfile
+```
+FROM microsoft/aspnetcore-build:1.1
+WORKDIR /app
+
+# Copy the published web app
+COPY /aspnet-core-dotnet-core/ /app
+
+# Run command
+ENTRYPOINT ["dotnet", "aspnet-core-dotnet-core.dll"]
+```
