@@ -24,3 +24,19 @@ https://github.com/ethz-asl/mav_dji_ros_interface/wiki/Introduction
 ## Intel and Microsoft on the edge
 https://newsroom.intel.com/news/intel-microsoft-enable-ai-inference-edge-intel-movidius-vision-processing-units-windows-ml/
 
+## AI - unsorted
+- https://github.com/vjrantal/iot-edge-darknet-module
+- https://gist.github.com/seank-com/9d9bf1ffcbd0acb5129246c8e32de687
+- https://devblogs.microsoft.com/iotdev/a-workaround-to-run-azure-iot-edge-on-arm64-devices/
+- https://www.quantumobile.com/object-detection-on-nvidia-jetson-tx2/
+
+- how to load tensor flow models with open cv
+- https://jeanvitor.com/tensorflow-object-detecion-opencv/
+- https://github.com/Azure/iotedge/issues/104
+- https://github.com/ethz-asl/mav_dji_ros_interface/wiki/Introduction
+- autonomous drone navigation video https://www.youtube.com/watch?v=voVxIGyeqgo
+- https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/export-model-python
+- https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis/
+- https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/Vision-API-How-to-Topics/HowtoAnalyzeVideo_Vision
+- https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0
+- https://gist.github.com/richlander/467813274cea8abc624553ee72b28213

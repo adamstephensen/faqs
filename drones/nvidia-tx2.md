@@ -28,6 +28,7 @@ https://www.jetsonhacks.com/2017/03/21/jetpack-3-0-nvidia-jetson-tx2-development
 
 ## Tutorials
 - Hello world AI https://github.com/dusty-nv/jetson-inference
+
 - [tensor flow on tx2](https://jkjung-avt.github.io/tf-trt-models/)
 - [tensor flow models on tx2](https://jkjung-avt.github.io/tf-trt-models/) **this is the one for me to run on **
 
@@ -35,6 +36,9 @@ https://www.jetsonhacks.com/2017/03/21/jetpack-3-0-nvidia-jetson-tx2-development
  - [Nvidia - tensorrt with phyton](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html#python_topics)
  - [tensor rt containers](https://ngc.nvidia.com/catalog/containers/nvidia:tensorrt)
  - [tensorrt overview](https://devblogs.nvidia.com/speed-up-inference-tensorrt/)
+
+- [Deep Vision tutorial for Tx2 / Nano](https://github.com/dusty-nv/jetson-inference)
+
 
 ## Compiling vs code on tx2 **todo**
 https://devtalk.nvidia.com/default/topic/1035752/how-to-install-quot-visual-studio-code-quot-/

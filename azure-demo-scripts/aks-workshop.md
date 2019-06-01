@@ -65,3 +65,4 @@ Next Steps
 - Azure Docs: Azure for Containers https://docs.microsoft.com/en-us/azure/containers
 - Kubernetes 101 - Scott Coulton https://www.youtube.com/watch?v=MY5T9zIlSUg
 - AKS Workshop https://aksworkshop.io/
+- K8s workshop - Scott Coulton - https://github.com/scotty-c/kubernetes-on-azure-workshop
