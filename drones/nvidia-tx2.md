@@ -28,6 +28,7 @@ https://www.jetsonhacks.com/2017/03/21/jetpack-3-0-nvidia-jetson-tx2-development
 
 ## Tutorials
 - Hello world AI https://github.com/dusty-nv/jetson-inference
+- [Deep Vision tutorial for Tx2 / Nano](https://github.com/dusty-nv/jetson-inference)
 
 ## Compiling vs code on tx2 **todo**
 https://devtalk.nvidia.com/default/topic/1035752/how-to-install-quot-visual-studio-code-quot-/
