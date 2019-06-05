@@ -8,3 +8,11 @@ https://developer.dji.com/mobile-sdk/documentation/application-development-workf
 
 ## Sample code for reading video from a DJI drone ? 
 https://github.com/game-of-drones/dji-mobilesdk-vision
+
+
+## Dji windows sdk
+- uwp using OPenCV https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/process-software-bitmaps-with-opencv
+
+
+## UWP 
+process open cv https://docs.microsoft.com/en-us/windows/uwp/audio-video-camera/process-software-bitmaps-with-opencv
