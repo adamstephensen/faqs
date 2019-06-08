@@ -25,6 +25,8 @@ https://github.com/pjreddie/darknet
 ## tensor flow sample
 https://www.edureka.co/blog/tensorflow-object-detection-tutorial/#tutorial-1
 
+installation on jetson https://docs.nvidia.com/deeplearning/frameworks/install-tf-xavier/index.html
+
 ## python 
 
 sudo apt-get update
@@ -32,3 +34,7 @@ sudo apt-get install python3.7
 python3 --version
 
 docs.python-guide.org/starting/install3/linux
+
+## Deepstream
+
+https://www.forbes.com/sites/janakirammsv/2019/03/23/microsoft-and-nvidia-deliver-intelligent-video-analytics-at-the-edge/#6519cbfa7623
