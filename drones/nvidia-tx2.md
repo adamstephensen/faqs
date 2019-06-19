@@ -144,3 +144,9 @@ https://newsroom.intel.com/news/intel-microsoft-enable-ai-inference-edge-intel-m
 - https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/Vision-API-How-to-Topics/HowtoAnalyzeVideo_Vision
 - https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0
 - https://gist.github.com/richlander/467813274cea8abc624553ee72b28213
+
+
+
+## running edge image detetion using containers
+https://github.com/vjrantal/iot-edge-darknet-module
+** very promising ** 

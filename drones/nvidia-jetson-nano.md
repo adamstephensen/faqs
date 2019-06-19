@@ -38,3 +38,22 @@ use lsusb command with the -D parameter to display the detail of specific a devi
 ```
 $ lsusb -D /dev/bus/usb/003/002
 ```
+
+
+
+
+## install python3 on nano
+python3-pil
+
+## official tensorflow for jetson nano
+https://devtalk.nvidia.com/default/topic/1048776/official-tensorflow-for-jetson-nano-/
+
+## check memory
+sudo tegrastats
+
+
+## using a swap file on nano
+https://www.jetsonhacks.com/2019/04/14/jetson-nano-use-more-memory/
+
+
+

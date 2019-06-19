@@ -154,3 +154,17 @@ dog walking video
 https://www.youtube.com/watch?v=pCrpb_N6YG8
 
 
+## Summary
+
+``` bash
+$ mkdir build
+$ cd build
+$ cmake ../
+
+$ cd jetson-inference/build			# omit if pwd is already /build from above
+$ make
+$ sudo make install
+cd aarch64/bin
+detectnet multiped
+
+```
