@@ -20,3 +20,6 @@ Check it out here:  https://kvaes.wordpress.com/2017/10/18/hardening-azure-funct
 APIs to test with
 [Simple Calculator](http://www.dneonline.com/calculator.asmx?op=Add)
 [The dilbert service](http://www.gcomputer.net/webservices/dilbert.asmx)
+
+## How do I monetise APIM ? 
+https://azure.microsoft.com/en-us/blog/how-to-monetize-apis-with-azure-api-management/?ref=msdn
