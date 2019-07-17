@@ -12,3 +12,9 @@ See the following
 
 Good explanation of TLS
 https://docs.apigee.com/api-platform/system-administration/about-ssl
+
+## Key Vault - demos
+
+https://docs.microsoft.com/en-us/azure/key-vault/quick-create-portal
+
+https://docs.microsoft.com/en-us/azure/key-vault/quick-create-net
