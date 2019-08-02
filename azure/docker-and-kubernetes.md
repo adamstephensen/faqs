@@ -1,3 +1,6 @@
+## Intro to Kubernetes Videos
+https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT
+
 ## I don't understand Kubuernetes. What can I do ?
 Watch this. It is awesome.
 
