@@ -1,3 +1,26 @@
+## common commands
+
+```
+# clear the screen
+clear
+
+# To list all video devices picked up by the kernel
+ls -ltrh /dev/video*
+
+# list all devices attached to USB 
+lsusb 
+
+# list all devices attached to PCI use 
+lspci
+
+# Shutdown
+sudo shutdown 
+
+# restart 
+sudo shutdown -r
+
+```
+
 ## To open a file 
 
 If you wish to open files in graphical applications from the command line, such as within gnome-terminal or xterm then simply run:
@@ -60,11 +83,7 @@ Open the picture via terminal using shotwell,
 ```
 shotwell "picturefilename.fileformat"
 ```
-
-## Shutdown
-
-for shut down ```sudo shutdown ```  
-for restart ```sudo shutdown -r```  
+ 
 
 ## Text editors 
 gedit
@@ -130,28 +149,25 @@ $ sudo make install
 
 
 
-## To list all video devices picked up by the kernel
-
-```
-ls -ltrh /dev/video*
-
-```
-
-## list all devices attached to USB 
-
-```
-lsusb 
-```
-
-## list all devices attached to PCI use 
-
-```
-lspci
-```
 
 
 dog walking video
 https://www.youtube.com/watch?v=pCrpb_N6YG8
+
+
+## delete folder and contents recursively
+
+``` bash
+
+```
+
+is the equivalent of 
+
+``` cmd
+RMDIR /S /Q folderpath
+RD /S /Q folderPath
+
+```
 
 
 ## Summary

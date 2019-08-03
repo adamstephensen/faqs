@@ -1,5 +1,29 @@
+## Create a .NET Application
 
 
+integrated development environment
+
+
+
+``` cmd on Windows
+dotnet new webapp -o aspnetcoreapp
+dotnet dev-certs https --trust
+cd aspnetcoreapp
+dotnet run
+
+```
+
+Figure: Based on [Tutorial: Get started with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-2.2&tabs=windows)
+
+
+## create a containerised node Express app and deploy as a web app for containers
+
+Figure: based on [How to Launch a Dockerized Node.js App Using the Azure Web App for Containers Service](https://medium.com/microsoftazure/how-to-launch-a-dockerized-node-js-app-using-the-azure-web-app-for-containers-service-c3722ce370ab)
+
+
+
+## create dotnetcore app, and add docker file
+Figure: Based on [](https://medium.com/microsoftazure/exploring-the-docker-extension-for-vs-code-and-net-core-516e032949f)
 
 #0 Create dotnote core, ruby and / or node app, containerise and deploy
 - based on https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-docker-go
