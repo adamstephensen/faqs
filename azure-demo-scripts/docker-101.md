@@ -5,6 +5,10 @@
 
 ```
 ## List Docker CLI commands
+
+# docker system prune # use with caution
+
+
 docker
 docker container --help
 
@@ -40,8 +44,20 @@ Source: https://docs.docker.com/get-started/part2/
 
 ### Define a container with Dockerfile
 
+#### Short Demo
+
+```
+docker build -t myhello .        # Create image using this directory's Dockerfile
+docker run -p 4000:80 myhello    # Run "friendlyhello" mapping port 4000 to 80
+docker run -d -p 4000:80 myhello         # Same thing, but in detached mode
+docker login                           # Log in this CLI session using your Docker credentials
+docker tag myhello adamstephensen/myhellot001:v1.0.0  # Tag <image> for upload to registry
+docker push adamstephensen/myhellot001:v1.0.0            # Upload tagged image to registry
+docker run adamstephensen/myhellot001:v1.0.0                   # Run image from a registry
+```
 
 
+#### Longer Demo
 
 ```
 docker build -t friendlyhello .        # Create image using this directory's Dockerfile
