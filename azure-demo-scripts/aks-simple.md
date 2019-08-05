@@ -22,6 +22,8 @@ srouce code for the app: https://github.com/Azure-Samples/azure-voting-app-redis
 
 
 ```
+docker run -it mcr.microsoft.com/azure-cli
+
 az login
 clear
 az account list
