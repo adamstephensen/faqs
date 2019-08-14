@@ -1,6 +1,7 @@
 ## links for PaaS Security
 
 - [App Service Doco: Security in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/overview-security)
+- [App Service Doco: Authentication and authorization in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/overview-authentication-authorization)
 - [Azure Security Doco: List of Azure security best practices](https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns)
 - [Azure Security Doco: Best practices for securing PaaS web and mobile applications using Azure App Service](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-app-services)
 - [Azure Security Doco: Securing PaaS deployments](https://docs.microsoft.com/en-us/azure/security/fundamentals/paas-deployments)
