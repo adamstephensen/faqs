@@ -148,3 +148,23 @@ COPY /aspnet-core-dotnet-core/ /app
 # Run command
 ENTRYPOINT ["dotnet", "aspnet-core-dotnet-core.dll"]
 ```
+
+
+# official docker demo  
+
+## clone the repo
+git clone https://github.com/docker/doodle.git
+
+## build the docker image
+cd doodle\cheers2019 ; docker build -t adamstephensen/cheers2019 .
+
+## push the image to docker hub
+cd doodle\cheers2019 ; docker build -t adamstephensen/cheers2019 .
+
+## run the image
+docker run -it --rm adamstephensen/cheers2019
+
+
+
+
+
