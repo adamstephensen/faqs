@@ -39,6 +39,10 @@ Resources
 - https://www.ultratools.com/tools/dnsLookupResult
 
 
+## Private link
+
+- [Azure Blog - Private link announcement](https://azure.microsoft.com/en-au/blog/announcing-azure-private-link/)
+- [Private link overview video](https://www.youtube.com/watch?v=--ri7oy0Cgw&feature=youtu.be)
 
 
 
