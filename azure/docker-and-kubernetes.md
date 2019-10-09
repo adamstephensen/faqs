@@ -1,3 +1,14 @@
+## Can I get some slides on containers and AKS
+
+My slide decks are here: https://aka.ms/adams-container-presentations
+
+  - Containers on Azure -> covers what containers are and why they are important
+  - 00 - Kubernetes overview -> An intro to Kubernetes core concepts
+  - 001 - AKS Overview - what is AKS, core AKS concepts and why it's so great
+  - 002 - AKS Best Practices - once you are deploying AKS, this is a collection of best practices.
+
+
+
 ## Intro to Kubernetes Videos
 https://www.youtube.com/playlist?list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT
 
