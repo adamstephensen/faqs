@@ -17,12 +17,12 @@ The second whiteboard scenario will be designed by you and your teams; this mean
 
 #### Who should attend:
 
-This invitation is open to your application development/engineering/integration teams.
+This invitation is open to your architects, application development,engineering and integration teams.
 
 #### What to bring
 
 - A laptop  
-- Current business requirements or issues or questions around integration scenarios
+- Current business requirements, issues and questions around integration scenarios
 
 **Please note: Workshop content presumes 200-300-level of architectural expertise of infrastructure and solutions design.**
 
