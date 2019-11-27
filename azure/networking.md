@@ -1,3 +1,8 @@
+
+## App Service VNet Integration
+This is THE document https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet
+
+
 ## Load balancing options
 
 https://docs.microsoft.com/en-au/azure/frontdoor/front-door-lb-with-azure-app-delivery-suite *todo*
@@ -46,3 +51,22 @@ Resources
 
 
 
+## Connecting Web App to SQL Server
+
+https://stackoverflow.com/questions/50483132/how-to-secure-access-from-app-service-to-azure-sql-database-using-virtual-networ/50483574
+
+## Todo - clarification required
+
+This is not to be confused with service endpoints TO your app. That is the recently released capability to lock traffic to your app down to selected VNet/subnets.
+
+https://stackoverflow.com/questions/50483132/how-to-secure-access-from-app-service-to-azure-sql-database-using-virtual-networ/50483574
+
+## network size cheater
+
+``` text
+/24 - 256 addresses (2^8)
+/25 - 128 addresses (2^7)
+/26 - 64 addresses (2^6)
+/27 - 32 addresses (2^5)
+/28 - 16 addresses (2^4)
+```

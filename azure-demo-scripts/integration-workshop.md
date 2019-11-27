@@ -19,6 +19,10 @@ The second whiteboard scenario will be designed by you and your teams; this mean
 
 This invitation is open to your architects, application development,engineering and integration teams.
 
+#### Cost
+
+The workshop is FREE, but we ask that if you RSVP 'yes' and then can't come you let us know so that we can allow people from the waitlist to attend.
+
 #### What to bring
 
 - A laptop  
