@@ -12,3 +12,4 @@ The official project catalogue https://microsoft.github.io/azure-iot-developer-k
 - https://docs.microsoft.com/en-us/samples/azure-samples/mxchip-iot-devkit-pnp/sample/
 - Azure IOT Central templates https://apps.azureiotcentral.com/
 - [Quick deploy IOT Central](https://docs.microsoft.com/en-gb/azure/iot-central/preview/quick-deploy-iot-central)
+- https://azure-samples.github.io/iot-devkit-web-simulator/
