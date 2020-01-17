@@ -49,8 +49,16 @@ When users create an IoT Central trial (Free) it does not require Azure Subscrip
 
 # Deploying remote monitoring
 
-configure the device
+- [deploy quickstart remote monitoring solution - smaller and cheaper](https://docs.microsoft.com/en-gb/azure/iot-accelerators/quickstart-remote-monitoring-deploy)
+
+- configure the device
 https://docs.microsoft.com/en-gb/azure/iot-accelerators/iot-accelerators-arduino-iot-devkit-az3166-devkit-remote-monitoring-v2
+
+
+- send messages to the device
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-c2d
+
+- reference architecture for iot https://docs.microsoft.com/en-gb/azure/architecture/reference-architectures/iot/
 
 
 
