@@ -47,4 +47,15 @@ After you create a Microsoft Azure IoT Central application, you can use the Admi
 When users create an IoT Central trial (Free) it does not require Azure Subscription therefore it will not reflect in Azure Portal. A user can have only one active trial at a time. The trial allows users to add up to 5 devices (real or simulated) and lasts for 7 days after activation. [Follow this link](https://azure.microsoft.com/en-us/pricing/details/iot-central/) and navigate to FAQ for trial limitations. 
 
 
+# Deploying remote monitoring
+
+configure the device
+https://docs.microsoft.com/en-gb/azure/iot-accelerators/iot-accelerators-arduino-iot-devkit-az3166-devkit-remote-monitoring-v2
+
+
+
+# iot central
+https://azure.microsoft.com/en-gb/services/iot-central/
+
+
 
