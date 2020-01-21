@@ -70,3 +70,40 @@ https://stackoverflow.com/questions/50483132/how-to-secure-access-from-app-servi
 /27 - 32 addresses (2^5)
 /28 - 16 addresses (2^4)
 ```
+
+## connecting to on-prem resources
+
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/a2df13c0-a87d-4e05-82aa-621bd7566b7a/mssql-server-on-premise-connection-from-azure?forum=servbus
+
+To reach on-premises resource from Azure, there are multiple ways to achieve this.
+
+Below are the approaches you can consider :
+
+#### 1) Hybrid Connection . It is a feature in Azure App Service
+
+It provides a convenient way to connect the Apps in Azure App Service to on-premises resources behind your firewall. 
+
+https://docs.microsoft.com/en-us/azure/biztalk-services/integration-hybrid-connection-overview
+
+https://docs.microsoft.com/en-us/azure/app-service/app-service-hybrid-connections
+
+
+
+ #### 2) By Logic App : Connect to on-premises data sources from Azure Logic Apps
+
+In this you need to create an on-premises data gateway resource in the Azure portal and then logic apps can use the on-premises connector .
+
+https://docs.microsoft.com/bs-latn-ba/azure/logic-apps/logic-apps-gateway-connection
+
+#### 3) Configuring a site-to-site VPN Gateway between Azure and On-Premise
+
+The article shows you how to use the Azure portal to create a Site-to-Site VPN gateway connection from your on-premises network to the VNet.
+
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-portal.md
+
+
+## Connect to on-prem SQL 
+
+- [Sync on prem database to Azure SQL](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-get-started-sql-data-sync)
+- [Refresh PowerBI from On-Prem SQL via Data Gateway](https://docs.microsoft.com/en-us/power-bi/service-gateway-sql-tutorial)
+- [Logic Apps SQL Server connector](https://docs.microsoft.com/en-us/azure/connectors/connectors-create-api-sqlazure)
