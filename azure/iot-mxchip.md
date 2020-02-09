@@ -2,6 +2,10 @@
 
 The official project catalogue https://microsoft.github.io/azure-iot-developer-kit/docs/projects/
 
+## MX Chip Simulator
+
+https://azure-samples.github.io/iot-devkit-web-simulator/
+
 
 ### links to labs
 
