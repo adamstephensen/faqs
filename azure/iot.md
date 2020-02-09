@@ -1,6 +1,10 @@
 ## Where can I find other IOT resources ? 
 - there are great resources linked form the IOT in Action event https://www.iotinactionevents.com/event/sydney/
 
+## where can i get the VS Code IOT Extension ? 
+https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit
+
+
 ## Where can I see good videos on IOT ? *todo*
 
 This is a great talk on IOT Architecture
