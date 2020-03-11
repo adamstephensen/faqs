@@ -23,3 +23,8 @@ APIs to test with
 
 ## How do I monetise APIM ? 
 https://azure.microsoft.com/en-us/blog/how-to-monetize-apis-with-azure-api-management/?ref=msdn
+
+## How do i do devops with APIM
+https://azure.github.io/api-management-resources/
+https://github.com/Azure/azure-api-management-devops-resource-kit
+https://azure.github.io/api-management-resources/
