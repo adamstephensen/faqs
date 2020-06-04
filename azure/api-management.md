@@ -28,3 +28,8 @@ https://azure.microsoft.com/en-us/blog/how-to-monetize-apis-with-azure-api-manag
 https://azure.github.io/api-management-resources/
 https://github.com/Azure/azure-api-management-devops-resource-kit
 https://azure.github.io/api-management-resources/
+
+## ARM Templates for API M
+https://azure.microsoft.com/en-au/blog/build-a-ci-cd-pipeline-for-api-management/
+
+![arm templates for apim](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3be93f4e-acea-4771-a62a-f452b79a3fa5.png)
