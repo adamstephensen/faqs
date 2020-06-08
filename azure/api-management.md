@@ -1,7 +1,7 @@
 ## Where are the docs for API Management (APIM)  ?
 
-https://azure.microsoft.com/en-gb/services/api-management/
-https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
+- https://azure.microsoft.com/en-gb/services/api-management/
+- https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
 
 ## ToDo: Add some images showing what is in APIM
 - e.g. key features esp Proxy layer
