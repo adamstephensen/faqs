@@ -24,12 +24,12 @@ APIs to test with
 ## How do I monetise APIM ? 
 https://azure.microsoft.com/en-us/blog/how-to-monetize-apis-with-azure-api-management/?ref=msdn
 
-## How do i do devops with APIM
-https://azure.github.io/api-management-resources/
-https://github.com/Azure/azure-api-management-devops-resource-kit
-https://azure.github.io/api-management-resources/
+## How do I do devops / CI-CD with APIM
 
-## ARM Templates for API M
-https://azure.microsoft.com/en-au/blog/build-a-ci-cd-pipeline-for-api-management/
+- [List of Azure APIM Resources - has a section on 'DevOps and Automation'](https://azure.github.io/api-management-resources/) 
+- [APIM DevOps Resoruce Kit](https://github.com/Azure/azure-api-management-devops-resource-kit) 
+- [Blog - Build a CI/CD Pipeline for APIM](https://azure.microsoft.com/en-au/blog/build-a-ci-cd-pipeline-for-api-management/) 
+- [Video outlining several different methods of CI/CD with APIM](https://vimeo.com/318813322 ) 
+
 
 ![arm templates for apim](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/3be93f4e-acea-4771-a62a-f452b79a3fa5.png)
