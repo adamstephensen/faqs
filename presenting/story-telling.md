@@ -1,3 +1,7 @@
+# Overview - why story-telling is important
+- https://newkind.com/offering/storytelling-workshop/
+
+
 ## Writing great stories
 - Warning: Contains graphic language in the first 60 seconds.
 - If you wish to avoid the bad language start at exactly 1 minute in.
@@ -44,5 +48,12 @@ Activity: Write the end of your talk. Record it.
 
 
 
+# Scratch pad
+- know your stuff. it's easy to riff if you've seriously done it.
+- if you haven't done it.. don't fake it (completely). make where you are at part of your story or take someone who does know it.
+- don't forget your audience (sydney 2018 story - thanks cobby)
+- practice: 
+- re-watch old talks: giving myself imposter syndrome in London
 
+- a great example: the firefighter https://youtu.be/sAQfzHBpRsc
 
