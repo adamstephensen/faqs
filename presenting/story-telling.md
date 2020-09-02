@@ -57,3 +57,7 @@ Activity: Write the end of your talk. Record it.
 
 - a great example: the firefighter https://youtu.be/sAQfzHBpRsc
 
+
+
+- Article: [“Be Wrong As Fast As You Can” Andrew Stanton Talks ‘Toy Story 4’](https://creativescreenwriting.com/be-wrong-as-fast-as-you-can-andrew-stanton-talks-toy-story-4/)
+
