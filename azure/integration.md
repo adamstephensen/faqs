@@ -23,5 +23,9 @@ Message exchanges
 Messages often carry information that pass the baton of handling certain steps in a workflow or a processing chain to a different role inside a system. Those messages, like a purchase order or a monetary account transfer record, may express significant inherent monetary value. That value may be lost and/or very difficult to recover if such a message were somehow lost in transfer. The transfer of such messages may be subject to certain deadlines, might have to occur at certain times, and may have to be processed in a certain order. Messages may also express outright commands to perform a specific action. The publisher may also expect that the receiver(s) of a message report back the outcome of the processing, and will make a path available for those reports to be sent back.
 
 This kind of contractual message handling is quite different from a publisher offering facts to an audience without having any specific expectations of how they ought to be handled. Distribution of such facts is best-called events.
+
+Events are also messages, but they don’t generally convey a publisher intent, other than to inform. An event captures a fact and conveys that fact. A consumer of the event can process the fact as it pleases and doesn’t fulfill any specific expectations held by the publisher.
+
+Events largely fall into two big categories: They either hold information about specific actions that have been carried out by the publishing application, or they carry informational data points as elements of a continuously published stream.
 ```
 https://azure.microsoft.com/en-gb/blog/events-data-points-and-messages-choosing-the-right-azure-messaging-service-for-your-data/
