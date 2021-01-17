@@ -12,3 +12,7 @@ Quick ramp up, sub second metering, zero ops
 ## Is there sampleS using Azure Functions ? 
 https://github.com/Azure-Samples/TodoFunctions/blob/master/ToDoFunctions/ToDoOperations.cs
 todo: find one showing a full API
+
+
+## MCW workshop
+https://github.com/microsoft/MCW-Serverless-architecture
