@@ -3,8 +3,10 @@ With Serverless you pay for what you use. This is especially benefitical for app
 
 
 
-## demos
-https://azure-scenarios-experience.azurewebsites.net/rtp-apps.html
-https://github.com/Microsoft/ContosoAir
+## Serverless Demos
+
+### Contoso Air
+- [Contoso Air Doco](https://azure-scenarios-experience.azurewebsites.net/rtp-apps.html)
+- [Contoso Air Github repo](https://github.com/Microsoft/ContosoAir)
 
 
