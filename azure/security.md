@@ -32,3 +32,6 @@ https://docs.apigee.com/api-platform/system-administration/about-ssl
 - [app service - how to use managed ideneitty](https://docs.microsoft.com/en-us/azure/app-service/overview-managed-identity)
 - [managed identity to connect to sql server](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-connect-msi)
 
+## Resource Isolation
+
+- https://docs.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance#compute-isolation
