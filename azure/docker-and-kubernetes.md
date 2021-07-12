@@ -62,6 +62,12 @@ https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough
 
 
 
+## Running PCI workloads on AKS
+
+[AKS regulated cluster for PCI-DSS 3.2.1](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-pci/aks-pci-intro)
+
+
+
 
 
 # Where can I find resources
