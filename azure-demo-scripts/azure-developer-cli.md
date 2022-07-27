@@ -1,17 +1,10 @@
-1. Import the Calculator wsdl
-```
-http://www.dneonline.com/calculator.asmx?wsdl
-```
-Don't forget to select the products.
-
-2. Test 'Add method'
-
-
-
 # Setup
 
-## Ensure the Azure Developer CLI is configured
+## Ensure the Azure Developer CLI and GitHub CLI are configured
+
 [Get started using Azure Developer CLI (azd) ](https://docs.microsoft.com/en-us/azure/developer/azure-developer-cli/get-started)
+
+[GitHub - GitHub CLI](https://github.com/cli/cli)
 
 ## Open the following documents
 [What is the Azure Developer CLI (azd) ?](https://docs.microsoft.com/en-us/azure/developer/azure-developer-cli/overview?tabs=nodejs) (lists the available templates)
@@ -28,11 +21,25 @@ Don't forget to select the products.
 ```
 azd up --template todo-nodejs-mongo-aca
 ```
+This may take a while to complete as it executes three commands: azd init (initializes environment), azd provision (provisions Azure resources), and azd deploy (deploys application code). 
 
-2. Create the service principle and configure the Github Action
+** Inspect the Solution
+* /scr folder - all the application code
+* /infra folder - Infrastructure as code
+* /azure.yaml - Azure developer Configuration ties the source code to the azure services defined in /infra
+* /.vscode folder - VS Code configuration to run and debug the application
+* /.github/workflows - Github actions
+
+
+2. Setup a pipeline using ```azd pipeline```
+
 ```
 azd pipeline config
 ```
+
+This creates a Service Principal stored in a GitHub secret named ```AZURE_CREDENTIALS```.
+It then executes the GitHub action from the workflows folder and pushes from the private git repo to a new repo on GitHub
+
 
 3. Commit code changes and automatically deploy to app running on Azure
 
@@ -40,8 +47,21 @@ azd pipeline config
 //update automatically
 git push
 
-//monitor the application
-azd monitor --logs     
+```
+
+4. Monitor the application
+
+```
+
+//opens the "overview" dashboard
+azd monitor --overview
+
+//opens the Live Metrics dashboard
+azd monitor --live
+
+//opens the logs dashboard
+azd monitor --logs  
+
 ```
 
 ## Clean up resources so you don't continue to get charged
@@ -59,3 +79,9 @@ service docker status
 sudo service docker start
 sudo docker run hello-world
 ```
+
+
+### can't open default browser in wsl
+
+```warning: failed to open default browser: could not open resource: exec: "xdg-open": executable file not found in $PATH```
+
