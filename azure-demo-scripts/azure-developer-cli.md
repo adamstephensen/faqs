@@ -2,7 +2,17 @@ I'm really excited about the Azure Developer CLI.
 
 I think it's the fastest way to stand up a new application in Azure. 
 
-Even better than being fast, is the fact it shows you how to do it with best practices.
+Even better than being fast, is the fact it shows you how to kick off an application with best practices that lots of devs struggle to get their heads around. 
+
+The application we are going to look at is a web application with a front end in React, and a NodeJS API, talking back to CosmosDB.
+
+The react web app, and the Node API are both hosted in containers in Azure Container Apps - if you havent used ACA it's awesome.
+
+It is an abstraction over Kubernetes. You can run your containers in Azure serverlessly, without having to go and learn all the inns and outs of configuring and maintaining Kubernetes.
+
+We are also using Azure monitor for logging, Azure container registry for storing our containers and Keyvault for storing our secrets.
+
+Importantly - we doing all this using Infrastructure as Code. So the deployments are repeatable and can be used in our devops processes.
 
 # Setup
 
