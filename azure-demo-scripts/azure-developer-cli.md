@@ -16,11 +16,21 @@
 
 ## Deploy and setup the developer workflow
 
-1. Download the template and deploy it to Azure
+1. Execute ONE of the following commands to download the template and deploy it to Azure. [The full list of available templates](https://docs.microsoft.com/en-us/azure/developer/azure-developer-cli/overview?tabs=python#azure-developer-cli-templates) are in the docs.
 
 ```
+// using Azure Container Apps (ReactJS web app + NodeJs APIs)
 azd up --template todo-nodejs-mongo-aca
+
+// using ReactJS web app on Azure Static Web App + NodeJs Azure Function APIs)
+azd up --template todo-nodejs-mongo-swa-func
+
+// using ReactJS web app on Azure Static Web App + Python Azure Function APIs)
+azd up --template todo-python-mongo-swa-func
+
 ```
+
+
 This may take a while to complete as it executes three commands: azd init (initializes environment), azd provision (provisions Azure resources), and azd deploy (deploys application code). 
 
 ** Inspect the Solution
