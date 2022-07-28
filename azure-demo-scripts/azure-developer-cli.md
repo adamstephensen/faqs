@@ -90,6 +90,12 @@ sudo service docker start
 sudo docker run hello-world
 ```
 
+alternatively .... to enable docker to run without needing sudo [follow the steps in the docs](https://docs.docker.com/engine/install/linux-postinstall/)
+
+```
+sudo groupadd docker
+sudo usermod -aG docker $USER
+```
 
 ### can't open default browser in wsl
 
