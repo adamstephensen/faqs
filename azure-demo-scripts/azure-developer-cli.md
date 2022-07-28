@@ -14,6 +14,10 @@ We are also using Azure monitor for logging, Azure container registry for storin
 
 Importantly - we doing all this using Infrastructure as Code. So the deployments are repeatable and can be used in our devops processes.
 
+Working out how to build, configure, and deploy these components using infrastructure as code the first time can take a dev weeks to work out. 
+
+The Azure CLI means you can be up and running in a few minutes.
+
 # Setup
 
 ## Ensure the Azure Developer CLI and GitHub CLI are configured
