@@ -1,3 +1,9 @@
+I'm really excited about the Azure Developer CLI. 
+
+I think it's the fastest way to stand up a new application in Azure. 
+
+Even better than being fast, is the fact it shows you how to do it with best practices.
+
 # Setup
 
 ## Ensure the Azure Developer CLI and GitHub CLI are configured
