@@ -19,6 +19,12 @@ sudo shutdown
 # restart 
 sudo shutdown -r
 
+# open a process in new thread
+code . &
+
+# show how long a process takes
+date; azd up; date
+
 ```
 
 ## To open a file 
@@ -158,7 +164,7 @@ https://www.youtube.com/watch?v=pCrpb_N6YG8
 ## delete folder and contents recursively
 
 ``` bash
-
+rm -rf fodlername
 ```
 
 is the equivalent of 
