@@ -25,6 +25,9 @@ az account list
 az account show
 
 
+# list off regions
+az account list-locations -o table
+
 ```
 
 
