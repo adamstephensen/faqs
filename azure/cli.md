@@ -12,7 +12,7 @@ https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest
 
 
 
-## Common Commands
+## Common Commands - Bash
 
 ```
 # login
@@ -30,7 +30,17 @@ az account list-locations -o table
 
 ```
 
+## Common Commands - Azure PowerShell
 
+```
+# login
+Connect-AzAccount
+
+# find commands
+Get-Command -Verb Get -Noun AzVM* -Module Az.Compute
+
+# more https://learn.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azps-9.4.0
+```
 
 ## How can I run the cli from a docker container
 
