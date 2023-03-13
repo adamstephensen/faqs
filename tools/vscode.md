@@ -46,7 +46,7 @@ Display
 | Esc Esc            | Exit Zen Mode |
 | Ctrl + =           | Zoom in |
 | Ctrl + -           | Zoom out |
-| Shift + Ctrl + V   | Markdown Preview |
 | Ctrl + K V         | Open preview to the side |
+| Shift + Ctrl + V   | Markdown Preview |
 | Ctrl + `           | Toggle integrated terminal |
 

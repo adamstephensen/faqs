@@ -22,5 +22,90 @@ var app = express();
 Visual Studio Code Youtube channel 
 https://www.youtube.com/watch?v=o3qURBllpGM
 
+item.cs
+
+```
+using Microsoft.EntityFrameworkCore;
+
+public interface  IApplicationDbContext {
+    DbSet<TodoList> TodoLists { get; set; }
+    DbSet<TodoItem> TodoItems { get; set; }
+
+    Task<int> SaveChangesAsync(CancellationToken cancellationToken);
+}
+
+public class ApplicationDbContext : DbContext, IApplicationDbContext {
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
+
+    public DbSet<TodoList> TodoLists { get; set; }
+    public DbSet<TodoItem> TodoItems { get; set; }
+
+    public async Task<int> SaveChangesAsync(CancellationToken cancellationToken) {
+        return await base.SaveChangesAsync(cancellationToken);
+    }
+}
 
 
+```
+
+
+
+item.js
+
+``` 
+const express = require('express');
+const app = express();
+const port = 3000;
+
+app.post("/items", (req, res) => {
+   //how to get the item from the req
+   let item = req.body.item;
+   req.send("Item added");
+//    
+});
+
+// how to get rid of bullets in the list
+
+```
+
+item.html
+
+```
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+<body>
+
+    <h1>My Website</h1>
+    <div>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+    </div>
+    </ul>
+</body>
+```
+
+style.css
+
+```
+/* highlight a list item green when a user mouses over it  */
+li:hover {
+    background-color: green;
+
+}
+
+/* how to get rid of the bullest in the list */
+ul {
+    list-style-type: none;
+}
+
+/* horizontally and vertically center the text in the body */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+```
