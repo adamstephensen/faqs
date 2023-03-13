@@ -27,6 +27,22 @@ date; azd up; date
 
 ```
 
+
+## explorer and pwd
+
+To open the home folder from windows
+
+```
+Select Start,  Run 
+\\wsl$
+```
+
+To open explorer from WSL 
+
+```  
+explorer.exe .
+```
+
 ## To open a file 
 
 If you wish to open files in graphical applications from the command line, such as within gnome-terminal or xterm then simply run:
