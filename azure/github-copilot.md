@@ -1,0 +1,4 @@
+The three steps to setup GitHub to Bill to an Azure Subscription for Copilot 
+1. Link their Azure subscription to their GitHub Enterprise: https://docs.github.com/en/enterprise-cloud@latest/billing/managing-billing-for-your-github-account/connecting-an-azure-subscription-to-your-enterprise
+2. Allow Copilot to be used in their organisations: https://docs.github.com/en/enterprise-cloud@latest/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-copilot-in-your-enterprise#enforcing-a-policy-to-manage-the-use-of-github-copilot-for-business-in-your-enterprise
+3. Assign Copilot licenses to organisation users: Step #5 on https://docs.github.com/en/enterprise-cloud@latest/billing/managing-billing-for-github-copilot/managing-your-github-copilot-subscription-for-your-organization-or-enterprise#setting-up-a-copilot-for-business-subscription-for-your-organization 
