@@ -1,3 +1,20 @@
+# azd cli scripts
+
+azd auth login
+
+> https://github.com/Azure-Samples/todo-java-mongo-aca
+azd init --template todo-java-mongo-aca
+
+https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/revolutionize-your-enterprise-data-with-chatgpt-next-gen-apps-w/ba-p/3762087
+https://github.com/Azure-Samples/azure-search-openai-demo/
+azd init -t azure-search-openai-demo
+
+azd up
+azd pipeline config
+azd monitor --overview
+azd monitor --live
+azd monitor --logs
+
 # CoPilot Demo Scripts
 
 using comments
