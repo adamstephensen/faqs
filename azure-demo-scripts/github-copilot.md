@@ -1,7 +1,43 @@
-CoPilot Demo Scripts
+# CoPilot Demo Scripts
+
+using comments
+// write a function to validate an email address
+repeat using the method declaration
+genearte the unit test
+
+vulnerability
+is there an error in this code ? 
+is this code secure ? 
+wrap this code in a method
+
+cobol
+what does this code do
+convert this code to java.
 
 
-From Catalin Pit
+## https://github.com/gh-productivity-workshops/PetSpotR
+
+
+## https://github.com/nolecram/HelpMeCopilot
+
+experiment1.js
+- select all code
+- 'document this code'
+- build tests for the code
+
+example.cobol
+- select all code
+- 'document the code'
+- 'translate to python'
+
+vulnerable.php
+- select all code
+- 'is this code secure?'
+- 'how do i exploit this vulnerability'
+- 'fix it'
+
+
+## From Catalin Pit
 https://www.youtube.com/watch?v=edSZh-tpTIk
 
 ```
@@ -19,7 +55,7 @@ var app = express();
 ```
 
 
-Visual Studio Code Youtube channel 
+## Visual Studio Code Youtube channel 
 https://www.youtube.com/watch?v=o3qURBllpGM
 
 item.cs
