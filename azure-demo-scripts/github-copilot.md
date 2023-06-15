@@ -1,3 +1,11 @@
+#----------  keboard shortcuts
+Alt + ]         See next suggestion
+Alt + [         See previous suggestion
+Ctrl + Enter    See list of suggestions
+Alt + \         See inline suggestion
+----------------
+
+
 # azd cli scripts
 
 azd auth login
@@ -52,6 +60,45 @@ vulnerable.php
 - 'is this code secure?'
 - 'how do i exploit this vulnerability'
 - 'fix it'
+
+
+
+#-----------C# 
+## install .net 7: command prompt as adminsitrator
+# note: didn't work in devbox. gave an error
+winget install Microsoft.DotNet.SDK.7
+
+## check installed versions
+dotnet --list-sdks
+
+## new csx applications
+dotnet script rockpaperscissors.csx
+
+## new console applications
+dotnet new console --framework net7.0
+
+
+#----------- main.py
+# Write a rock, paper, scissors game
+# import random module
+# define main function that handles all the logic
+# call main function
+>python3 main.py
+
+
+
+
+#-------------- javascript suggestion  (in a .js file)
+function calculateDaysBetweenDates(begin, end) {
+
+// find all images without alternate text
+// and give them a red border
+function process() {
+
+// Express server on port 3000
+
+// Return the current time
+
 
 
 ## From Catalin Pit

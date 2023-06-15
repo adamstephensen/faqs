@@ -1,0 +1,183 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace rockpaperscissors
+{
+    interface IPlayer
+    {
+        string name { get; set; }
+        string choice { get; set; }
+
+        void GetChoice();
+
+    }
+
+
+
+    class Player : IPlayer
+    {
+        // define a public string to store the player name
+        public string name { get; set; }
+        // define a public string to store the player choice
+        public string choice { get; set; }
+
+        // define a method to get the player name
+        public void GetName()
+        {
+            // ask the player for their name
+            Console.WriteLine("What's your name?");
+            // store the player name
+            name = Console.ReadLine();
+            // greet the player
+            Console.WriteLine("Hi {0}!", name);
+        }
+
+        // define a method to get the player choice
+        public void GetChoice()
+        {
+            // ask the player for their choice
+            Console.WriteLine("Rock, paper or scissors?");
+            // store the player choice
+            choice = Console.ReadLine().ToLower();
+        }
+    }
+
+    class AI : IPlayer
+    {
+        // define a public string to store the ai choice
+        public string choice { get; set; }
+        public string name { get; set; }
+
+        public AI()
+        {
+            this.name = "AI";
+        }
+
+        // define a method to get the ai choice
+        public void GetChoice()
+        {
+            // create a new random object
+            Random rnd = new Random();
+            // get a random number
+            int rndChoice = rnd.Next(1, 4);
+            // set the ai choice depending on the random number
+            if (rndChoice == 1)
+            {
+                choice = "rock";
+            }
+            else if (rndChoice == 2)
+            {
+                choice = "paper";
+            }
+            else if (rndChoice == 3)
+            {
+                choice = "scissors";
+            }
+        }
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // create a new game object
+            Game game = new Game();
+            // start the game
+            game.Start();
+        }
+    }
+
+    class Game
+    {
+        // create a new player object
+        Player player = new Player();
+        // create a new AI object
+        AI ai = new AI();
+        // create a new UI object
+        UI ui = new UI();
+
+        // define a start method
+        public void Start()
+        {
+            // get the player name
+            player.GetName();
+            // loop until the player wants to quit
+            while (true)
+            {
+                // get the player choice
+                player.GetChoice();
+                // get the AI choice
+                ai.GetChoice();
+                // compare the choices
+                CompareChoices();
+                // ask to play again
+                if (!ui.PlayAgain())
+                {
+                    break;
+                }
+            }
+        }
+
+        // define a method to compare the choices
+        private void CompareChoices()
+        {
+            // get the player choice
+            string playerChoice = player.choice;
+            // get the ai choice
+            string aiChoice = ai.choice;
+            // compare the choices
+            if (playerChoice == aiChoice)
+            {
+                // if they are the same it's a tie
+                ui.Tie(player, ai);
+            }
+            else if (playerChoice == "rock" && aiChoice == "scissors" || playerChoice == "paper" && aiChoice == "rock" || playerChoice == "scissors" && aiChoice == "paper")
+            {
+                // if the player wins
+                ui.Winner(player, ai);
+            }
+            else
+            {
+                // if the player loses
+                ui.Winner(ai, player);
+            }
+        }
+    }
+
+
+
+    class UI
+    {
+        // define a method to display the winner
+        public void Winner(IPlayer winner, IPlayer loser)
+        {
+            Console.WriteLine("{0} wins! {1} loses!", winner.name, loser.name);
+        }
+
+        // define a method to display a tie
+        public void Tie(IPlayer player1, IPlayer player2)
+        {
+            Console.WriteLine("Both players chose {0}. It's a tie!", player1.choice);
+        }
+
+        // define a method to ask to play again
+        public bool PlayAgain()
+        {
+            // ask the player if they want to play again
+            Console.WriteLine("Play again? (y/n)");
+            // get the player's answer
+            string answer = Console.ReadLine().ToLower();
+            // return true if the player's answer is yes
+            return (answer == "y");
+        }
+    }
+
+}
+//generate a rock paper scissors game
+
+// define main function that handles all the logic

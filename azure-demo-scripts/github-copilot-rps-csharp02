@@ -1,0 +1,157 @@
+using System;
+
+namespace rockpaperscissors
+{
+    enum Choice
+    {
+        Rock,
+        Paper,
+        Scissors
+    }
+
+    interface IPlayer
+    {
+        string Name { get; set; }
+        Choice Choice { get; set; }
+
+        void GetChoice();
+    }
+
+    class Player : IPlayer
+    {
+        public string Name { get; set; }
+        public Choice Choice { get; set; }
+
+        public void GetName()
+        {
+            Console.WriteLine("What's your name?");
+            Name = Console.ReadLine();
+            Console.WriteLine($"Hi {Name}!");
+        }
+
+        public void GetChoice()
+        {
+            Console.WriteLine("Rock, paper or scissors?");
+            string input = Console.ReadLine().ToLower();
+
+            switch (input)
+            {
+                case "rock":
+                    Choice = Choice.Rock;
+                    break;
+                case "paper":
+                    Choice = Choice.Paper;
+                    break;
+                case "scissors":
+                    Choice = Choice.Scissors;
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice. Please try again.");
+                    GetChoice();
+                    break;
+            }
+        }
+    }
+
+    class AI : IPlayer
+    {
+        public string Name { get; set; }
+        public Choice Choice { get; set; }
+
+        public AI()
+        {
+            Name = "AI";
+        }
+
+        public void GetChoice()
+        {
+            Random rnd = new Random();
+            int rndChoice = rnd.Next(1, 4);
+
+            switch (rndChoice)
+            {
+                case 1:
+                    Choice = Choice.Rock;
+                    break;
+                case 2:
+                    Choice = Choice.Paper;
+                    break;
+                case 3:
+                    Choice = Choice.Scissors;
+                    break;
+            }
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Game game = new Game();
+            game.Start();
+        }
+    }
+
+    class Game
+    {
+        Player player = new Player();
+        AI ai = new AI();
+        UI ui = new UI();
+
+        public void Start()
+        {
+            player.GetName();
+
+            while (true)
+            {
+                player.GetChoice();
+                ai.GetChoice();
+                CompareChoices();
+
+                if (!ui.PlayAgain())
+                {
+                    break;
+                }
+            }
+        }
+
+        private void CompareChoices()
+        {
+            Choice playerChoice = player.Choice;
+            Choice aiChoice = ai.Choice;
+
+            if (playerChoice == aiChoice)
+            {
+                ui.Tie(player, ai);
+            }
+            else if (playerChoice == Choice.Rock && aiChoice == Choice.Scissors || playerChoice == Choice.Paper && aiChoice == Choice.Rock || playerChoice == Choice.Scissors && aiChoice == Choice.Paper)
+            {
+                ui.Winner(player, ai);
+            }
+            else
+            {
+                ui.Winner(ai, player);
+            }
+        }
+    }
+
+    class UI
+    {
+        public void Winner(IPlayer winner, IPlayer loser)
+        {
+            Console.WriteLine("{0} wins with {1}! {2} loses with {3}!", winner.Name, winner.Choice, loser.Name, loser.Choice);
+        }
+
+        public void Tie(IPlayer player1, IPlayer player2)
+        {
+            Console.WriteLine("Both players chose {0}. It's a tie!", player1.Choice);
+        }
+
+        public bool PlayAgain()
+        {
+            Console.WriteLine("Play again? (y/n)");
+            string answer = Console.ReadLine().ToLower();
+            return (answer == "y");
+        }
+    }
+}
