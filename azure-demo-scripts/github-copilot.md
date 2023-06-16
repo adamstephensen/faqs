@@ -1,9 +1,5 @@
-#----------  keboard shortcuts
-Alt + ]         See next suggestion
-Alt + [         See previous suggestion
-Ctrl + Enter    See list of suggestions
-Alt + \         See inline suggestion
-----------------
+
+
 
 
 # azd cli scripts
@@ -76,6 +72,15 @@ dotnet script rockpaperscissors.csx
 
 ## new console applications
 dotnet new console --framework net7.0
+
+
+public bool ValidatePhoneNumber(string phoneNumber)
+        {
+             string MatchPhoneNumberPattern = @"^(\+[0-9]{9})$";
+             string MatchAustralianPhoneNumberPattern = @"^(\+61[0-9]{9})$";
+             string matchUSPhoneNumberPattern = @"^(\+1[0-9]{9})$";
+            return Regex.IsMatch(phoneNumber, MatchPhoneNumberPattern);            
+        }
 
 
 #----------- main.py
