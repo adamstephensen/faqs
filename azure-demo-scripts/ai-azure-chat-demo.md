@@ -1,4 +1,32 @@
-### Prep
+### Resources: 
+Official Repo: https://github.com/microsoft/azurechat
+Thivy's new version: https://github.com/thivy/azurechat-2/tree/main
+
+## setup - tooling requirements
+install node LTS from https://nodejs.org/
+select to include that additional tools, this will include chocolatey
+
+
+## upgrade Powershell
+I got this error: "'pwsh' is not recognized as an internal or external command, operable program or batch file"
+
+solution: 
+dotnet tool update --global PowerShell
+
+
+### initiate the repo using azd
+note: prefix must start with a letter and be 7 or less characters
+
+azd auth login
+azd init -t microsoft/azurechat
+azd up
+
+# if you are wanting to see logs run with debug flag
+azd up --debug
+
+note: to tear it down and delete resources use ```azd down```
+
+### Prep - starting with your own resource group
 Start with the subscriptoin and resource group settings
 
 Example Subscription ID: ```zzzzzz-09fa-40ab-a0cd-d3d7d055fc7a```
